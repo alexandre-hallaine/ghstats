@@ -15,8 +15,6 @@ for day in $(seq 1 31); do
 
     echo "[$DATE] Cleaning..."
     rm -rf "data/$DATE"
-
-    echo "[$DATE] Done."
   ) &
 done
 
