@@ -107,11 +107,11 @@
     },
     {
       "count": 38,
-      "language": "VimL"
+      "language": "TypeScript"
     },
     {
       "count": 38,
-      "language": "TypeScript"
+      "language": "VimL"
     },
     {
       "count": 35,
@@ -119,11 +119,11 @@
     },
     {
       "count": 33,
-      "language": "Elixir"
+      "language": "OCaml"
     },
     {
       "count": 33,
-      "language": "OCaml"
+      "language": "Elixir"
     },
     {
       "count": 30,
@@ -175,7 +175,7 @@
     },
     {
       "count": 14,
-      "language": "Matlab"
+      "language": "Crystal"
     },
     {
       "count": 14,
@@ -183,7 +183,7 @@
     },
     {
       "count": 14,
-      "language": "Crystal"
+      "language": "Matlab"
     },
     {
       "count": 13,
@@ -191,11 +191,11 @@
     },
     {
       "count": 13,
-      "language": "Groff"
+      "language": "D"
     },
     {
       "count": 13,
-      "language": "D"
+      "language": "Groff"
     },
     {
       "count": 11,
@@ -207,6 +207,10 @@
     },
     {
       "count": 8,
+      "language": "Apex"
+    },
+    {
+      "count": 8,
       "language": "Racket"
     },
     {
@@ -214,24 +218,20 @@
       "language": "Smarty"
     },
     {
-      "count": 8,
-      "language": "Apex"
+      "count": 7,
+      "language": "Elm"
     },
     {
       "count": 7,
       "language": "Kotlin"
     },
     {
-      "count": 7,
-      "language": "Elm"
+      "count": 6,
+      "language": "Eagle"
     },
     {
       "count": 6,
       "language": "Cucumber"
-    },
-    {
-      "count": 6,
-      "language": "Eagle"
     },
     {
       "count": 6,
@@ -243,19 +243,11 @@
     },
     {
       "count": 4,
-      "language": "ASP"
-    },
-    {
-      "count": 4,
-      "language": "Pascal"
-    },
-    {
-      "count": 4,
       "language": "DIGITAL Command Language"
     },
     {
       "count": 4,
-      "language": "Prolog"
+      "language": "Red"
     },
     {
       "count": 4,
@@ -263,7 +255,19 @@
     },
     {
       "count": 4,
-      "language": "Red"
+      "language": "Prolog"
+    },
+    {
+      "count": 4,
+      "language": "Pascal"
+    },
+    {
+      "count": 4,
+      "language": "ASP"
+    },
+    {
+      "count": 3,
+      "language": "Modelica"
     },
     {
       "count": 3,
@@ -271,15 +275,11 @@
     },
     {
       "count": 3,
-      "language": "Perl6"
+      "language": "VHDL"
     },
     {
       "count": 3,
       "language": "PureScript"
-    },
-    {
-      "count": 3,
-      "language": "PostScript"
     },
     {
       "count": 3,
@@ -291,55 +291,19 @@
     },
     {
       "count": 3,
-      "language": "Modelica"
+      "language": "PostScript"
     },
     {
       "count": 3,
-      "language": "Squirrel"
-    },
-    {
-      "count": 3,
-      "language": "VHDL"
+      "language": "Perl6"
     },
     {
       "count": 3,
       "language": "PLpgSQL"
     },
     {
-      "count": 2,
-      "language": "ActionScript"
-    },
-    {
-      "count": 2,
-      "language": "Smalltalk"
-    },
-    {
-      "count": 2,
-      "language": "GLSL"
-    },
-    {
-      "count": 2,
-      "language": "SuperCollider"
-    },
-    {
-      "count": 2,
-      "language": "Pan"
-    },
-    {
-      "count": 2,
-      "language": "Processing"
-    },
-    {
-      "count": 2,
-      "language": "Inform 7"
-    },
-    {
-      "count": 2,
-      "language": "AutoIt"
-    },
-    {
-      "count": 2,
-      "language": "Scheme"
+      "count": 3,
+      "language": "Squirrel"
     },
     {
       "count": 2,
@@ -347,7 +311,19 @@
     },
     {
       "count": 2,
-      "language": "Agda"
+      "language": "AutoIt"
+    },
+    {
+      "count": 2,
+      "language": "Inform 7"
+    },
+    {
+      "count": 2,
+      "language": "Pan"
+    },
+    {
+      "count": 2,
+      "language": "Scheme"
     },
     {
       "count": 2,
@@ -355,7 +331,31 @@
     },
     {
       "count": 2,
+      "language": "GLSL"
+    },
+    {
+      "count": 2,
       "language": "Eiffel"
+    },
+    {
+      "count": 2,
+      "language": "Agda"
+    },
+    {
+      "count": 2,
+      "language": "SuperCollider"
+    },
+    {
+      "count": 2,
+      "language": "Smalltalk"
+    },
+    {
+      "count": 2,
+      "language": "Processing"
+    },
+    {
+      "count": 2,
+      "language": "ActionScript"
     },
     {
       "count": 1,
@@ -363,11 +363,23 @@
     },
     {
       "count": 1,
-      "language": "Mercury"
+      "language": "Max"
     },
     {
       "count": 1,
-      "language": "Max"
+      "language": "Protocol Buffer"
+    },
+    {
+      "count": 1,
+      "language": "Thrift"
+    },
+    {
+      "count": 1,
+      "language": "SaltStack"
+    },
+    {
+      "count": 1,
+      "language": "Web Ontology Language"
     },
     {
       "count": 1,
@@ -379,23 +391,7 @@
     },
     {
       "count": 1,
-      "language": "Protocol Buffer"
-    },
-    {
-      "count": 1,
-      "language": "Standard ML"
-    },
-    {
-      "count": 1,
-      "language": "SaltStack"
-    },
-    {
-      "count": 1,
-      "language": "Thrift"
-    },
-    {
-      "count": 1,
-      "language": "Web Ontology Language"
+      "language": "Awk"
     },
     {
       "count": 1,
@@ -403,7 +399,11 @@
     },
     {
       "count": 1,
-      "language": "Awk"
+      "language": "Mercury"
+    },
+    {
+      "count": 1,
+      "language": "Standard ML"
     },
     {
       "count": 1,

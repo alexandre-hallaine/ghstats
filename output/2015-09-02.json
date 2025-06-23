@@ -119,11 +119,11 @@
     },
     {
       "count": 71,
-      "language": "OCaml"
+      "language": "Groovy"
     },
     {
       "count": 71,
-      "language": "Groovy"
+      "language": "OCaml"
     },
     {
       "count": 62,
@@ -183,11 +183,11 @@
     },
     {
       "count": 24,
-      "language": "Chapel"
+      "language": "SaltStack"
     },
     {
       "count": 24,
-      "language": "SaltStack"
+      "language": "Chapel"
     },
     {
       "count": 24,
@@ -207,11 +207,11 @@
     },
     {
       "count": 17,
-      "language": "Visual Basic"
+      "language": "SourcePawn"
     },
     {
       "count": 17,
-      "language": "SourcePawn"
+      "language": "Visual Basic"
     },
     {
       "count": 16,
@@ -227,11 +227,11 @@
     },
     {
       "count": 13,
-      "language": "Haxe"
+      "language": "PureScript"
     },
     {
       "count": 13,
-      "language": "PureScript"
+      "language": "Haxe"
     },
     {
       "count": 13,
@@ -239,11 +239,11 @@
     },
     {
       "count": 12,
-      "language": "Smarty"
+      "language": "Modelica"
     },
     {
       "count": 12,
-      "language": "Modelica"
+      "language": "Smarty"
     },
     {
       "count": 11,
@@ -255,6 +255,10 @@
     },
     {
       "count": 9,
+      "language": "ActionScript"
+    },
+    {
+      "count": 9,
       "language": "Apex"
     },
     {
@@ -262,8 +266,12 @@
       "language": "PostScript"
     },
     {
-      "count": 9,
-      "language": "ActionScript"
+      "count": 8,
+      "language": "PLpgSQL"
+    },
+    {
+      "count": 8,
+      "language": "Elm"
     },
     {
       "count": 8,
@@ -272,14 +280,6 @@
     {
       "count": 8,
       "language": "Xtend"
-    },
-    {
-      "count": 8,
-      "language": "Elm"
-    },
-    {
-      "count": 8,
-      "language": "PLpgSQL"
     },
     {
       "count": 7,
@@ -295,15 +295,11 @@
     },
     {
       "count": 6,
+      "language": "Coq"
+    },
+    {
+      "count": 6,
       "language": "OpenEdge ABL"
-    },
-    {
-      "count": 6,
-      "language": "Cuda"
-    },
-    {
-      "count": 6,
-      "language": "Objective-C++"
     },
     {
       "count": 6,
@@ -311,11 +307,39 @@
     },
     {
       "count": 6,
-      "language": "Coq"
+      "language": "Objective-C++"
     },
     {
       "count": 6,
       "language": "Slash"
+    },
+    {
+      "count": 6,
+      "language": "Cuda"
+    },
+    {
+      "count": 5,
+      "language": "ColdFusion"
+    },
+    {
+      "count": 5,
+      "language": "Vala"
+    },
+    {
+      "count": 5,
+      "language": "Web Ontology Language"
+    },
+    {
+      "count": 5,
+      "language": "API Blueprint"
+    },
+    {
+      "count": 5,
+      "language": "QML"
+    },
+    {
+      "count": 5,
+      "language": "Processing"
     },
     {
       "count": 5,
@@ -331,31 +355,11 @@
     },
     {
       "count": 5,
-      "language": "API Blueprint"
-    },
-    {
-      "count": 5,
-      "language": "ColdFusion"
-    },
-    {
-      "count": 5,
-      "language": "Processing"
-    },
-    {
-      "count": 5,
-      "language": "Web Ontology Language"
-    },
-    {
-      "count": 5,
-      "language": "QML"
-    },
-    {
-      "count": 5,
-      "language": "Vala"
-    },
-    {
-      "count": 5,
       "language": "ooc"
+    },
+    {
+      "count": 4,
+      "language": "Liquid"
     },
     {
       "count": 4,
@@ -363,31 +367,7 @@
     },
     {
       "count": 4,
-      "language": "Gnuplot"
-    },
-    {
-      "count": 4,
-      "language": "GAP"
-    },
-    {
-      "count": 4,
-      "language": "Nimrod"
-    },
-    {
-      "count": 4,
-      "language": "NetLogo"
-    },
-    {
-      "count": 4,
-      "language": "EmberScript"
-    },
-    {
-      "count": 4,
       "language": "Batchfile"
-    },
-    {
-      "count": 4,
-      "language": "Game Maker Language"
     },
     {
       "count": 4,
@@ -395,7 +375,27 @@
     },
     {
       "count": 4,
-      "language": "Liquid"
+      "language": "Game Maker Language"
+    },
+    {
+      "count": 4,
+      "language": "Nimrod"
+    },
+    {
+      "count": 4,
+      "language": "GAP"
+    },
+    {
+      "count": 4,
+      "language": "EmberScript"
+    },
+    {
+      "count": 4,
+      "language": "NetLogo"
+    },
+    {
+      "count": 4,
+      "language": "Gnuplot"
     },
     {
       "count": 3,
@@ -411,15 +411,7 @@
     },
     {
       "count": 3,
-      "language": "Gosu"
-    },
-    {
-      "count": 3,
-      "language": "LoomScript"
-    },
-    {
-      "count": 3,
-      "language": "Factor"
+      "language": "Bro"
     },
     {
       "count": 3,
@@ -427,19 +419,23 @@
     },
     {
       "count": 3,
-      "language": "Scilab"
-    },
-    {
-      "count": 3,
       "language": "Pascal"
     },
     {
       "count": 3,
-      "language": "Bro"
+      "language": "Scilab"
     },
     {
-      "count": 2,
-      "language": "OpenSCAD"
+      "count": 3,
+      "language": "Gosu"
+    },
+    {
+      "count": 3,
+      "language": "Factor"
+    },
+    {
+      "count": 3,
+      "language": "LoomScript"
     },
     {
       "count": 2,
@@ -447,19 +443,11 @@
     },
     {
       "count": 2,
-      "language": "SQF"
-    },
-    {
-      "count": 2,
-      "language": "LabVIEW"
-    },
-    {
-      "count": 2,
       "language": "Nemerle"
     },
     {
       "count": 2,
-      "language": "Smalltalk"
+      "language": "Red"
     },
     {
       "count": 2,
@@ -467,15 +455,11 @@
     },
     {
       "count": 2,
-      "language": "nesC"
-    },
-    {
-      "count": 2,
-      "language": "GLSL"
-    },
-    {
-      "count": 2,
       "language": "Standard ML"
+    },
+    {
+      "count": 2,
+      "language": "SQF"
     },
     {
       "count": 2,
@@ -483,35 +467,27 @@
     },
     {
       "count": 2,
-      "language": "Red"
+      "language": "OpenSCAD"
+    },
+    {
+      "count": 2,
+      "language": "GLSL"
+    },
+    {
+      "count": 2,
+      "language": "LabVIEW"
+    },
+    {
+      "count": 2,
+      "language": "nesC"
+    },
+    {
+      "count": 2,
+      "language": "Smalltalk"
     },
     {
       "count": 1,
-      "language": "PLSQL"
-    },
-    {
-      "count": 1,
-      "language": "AutoIt"
-    },
-    {
-      "count": 1,
-      "language": "SQLPL"
-    },
-    {
-      "count": 1,
-      "language": "NSIS"
-    },
-    {
-      "count": 1,
-      "language": "Mask"
-    },
-    {
-      "count": 1,
-      "language": "Component Pascal"
-    },
-    {
-      "count": 1,
-      "language": "Gettext Catalog"
+      "language": "Mako"
     },
     {
       "count": 1,
@@ -519,19 +495,11 @@
     },
     {
       "count": 1,
-      "language": "XML"
+      "language": "Component Pascal"
     },
     {
       "count": 1,
-      "language": "Objective-J"
-    },
-    {
-      "count": 1,
-      "language": "Logos"
-    },
-    {
-      "count": 1,
-      "language": "CartoCSS"
+      "language": "PLSQL"
     },
     {
       "count": 1,
@@ -539,11 +507,43 @@
     },
     {
       "count": 1,
+      "language": "XML"
+    },
+    {
+      "count": 1,
+      "language": "Mask"
+    },
+    {
+      "count": 1,
+      "language": "Logos"
+    },
+    {
+      "count": 1,
+      "language": "Objective-J"
+    },
+    {
+      "count": 1,
+      "language": "CartoCSS"
+    },
+    {
+      "count": 1,
+      "language": "NSIS"
+    },
+    {
+      "count": 1,
       "language": "Inno Setup"
     },
     {
       "count": 1,
-      "language": "Mako"
+      "language": "SQLPL"
+    },
+    {
+      "count": 1,
+      "language": "AutoIt"
+    },
+    {
+      "count": 1,
+      "language": "Gettext Catalog"
     }
   ]
 }

@@ -155,11 +155,11 @@
     },
     {
       "count": 31,
-      "language": "XSLT"
+      "language": "Handlebars"
     },
     {
       "count": 31,
-      "language": "Handlebars"
+      "language": "XSLT"
     },
     {
       "count": 30,
@@ -187,11 +187,11 @@
     },
     {
       "count": 24,
-      "language": "ColdFusion"
+      "language": "Elixir"
     },
     {
       "count": 24,
-      "language": "Elixir"
+      "language": "ColdFusion"
     },
     {
       "count": 22,
@@ -219,11 +219,11 @@
     },
     {
       "count": 16,
-      "language": "XML"
+      "language": "JSONiq"
     },
     {
       "count": 16,
-      "language": "JSONiq"
+      "language": "XML"
     },
     {
       "count": 15,
@@ -231,11 +231,15 @@
     },
     {
       "count": 14,
-      "language": "D"
+      "language": "Assembly"
     },
     {
       "count": 14,
-      "language": "Assembly"
+      "language": "D"
+    },
+    {
+      "count": 13,
+      "language": "Logos"
     },
     {
       "count": 13,
@@ -246,16 +250,12 @@
       "language": "Web Ontology Language"
     },
     {
-      "count": 13,
-      "language": "Logos"
+      "count": 12,
+      "language": "Elm"
     },
     {
       "count": 12,
       "language": "XQuery"
-    },
-    {
-      "count": 12,
-      "language": "Elm"
     },
     {
       "count": 11,
@@ -263,15 +263,15 @@
     },
     {
       "count": 11,
-      "language": "Pascal"
-    },
-    {
-      "count": 11,
       "language": "FORTRAN"
     },
     {
+      "count": 11,
+      "language": "Pascal"
+    },
+    {
       "count": 10,
-      "language": "VHDL"
+      "language": "Groff"
     },
     {
       "count": 10,
@@ -283,15 +283,15 @@
     },
     {
       "count": 10,
-      "language": "Groff"
-    },
-    {
-      "count": 10,
       "language": "QML"
     },
     {
+      "count": 10,
+      "language": "VHDL"
+    },
+    {
       "count": 9,
-      "language": "PLpgSQL"
+      "language": "Mathematica"
     },
     {
       "count": 9,
@@ -299,11 +299,11 @@
     },
     {
       "count": 9,
-      "language": "Arduino"
+      "language": "PLpgSQL"
     },
     {
       "count": 9,
-      "language": "Mathematica"
+      "language": "Arduino"
     },
     {
       "count": 7,
@@ -311,11 +311,11 @@
     },
     {
       "count": 6,
-      "language": "Common Lisp"
+      "language": "ASP"
     },
     {
       "count": 6,
-      "language": "CartoCSS"
+      "language": "Common Lisp"
     },
     {
       "count": 6,
@@ -323,7 +323,7 @@
     },
     {
       "count": 6,
-      "language": "ASP"
+      "language": "CartoCSS"
     },
     {
       "count": 5,
@@ -331,15 +331,11 @@
     },
     {
       "count": 5,
-      "language": "Objective-C++"
-    },
-    {
-      "count": 5,
       "language": "SQF"
     },
     {
-      "count": 4,
-      "language": "ooc"
+      "count": 5,
+      "language": "Objective-C++"
     },
     {
       "count": 4,
@@ -351,15 +347,15 @@
     },
     {
       "count": 4,
+      "language": "ooc"
+    },
+    {
+      "count": 4,
       "language": "AGS Script"
     },
     {
       "count": 3,
-      "language": "Dylan"
-    },
-    {
-      "count": 3,
-      "language": "Coq"
+      "language": "BitBake"
     },
     {
       "count": 3,
@@ -371,7 +367,7 @@
     },
     {
       "count": 3,
-      "language": "BitBake"
+      "language": "Coq"
     },
     {
       "count": 3,
@@ -379,51 +375,11 @@
     },
     {
       "count": 3,
+      "language": "Dylan"
+    },
+    {
+      "count": 3,
       "language": "Verilog"
-    },
-    {
-      "count": 2,
-      "language": "Xtend"
-    },
-    {
-      "count": 2,
-      "language": "Kotlin"
-    },
-    {
-      "count": 2,
-      "language": "Pan"
-    },
-    {
-      "count": 2,
-      "language": "Mako"
-    },
-    {
-      "count": 2,
-      "language": "Objective-J"
-    },
-    {
-      "count": 2,
-      "language": "Perl6"
-    },
-    {
-      "count": 2,
-      "language": "Propeller Spin"
-    },
-    {
-      "count": 2,
-      "language": "Stata"
-    },
-    {
-      "count": 2,
-      "language": "Bison"
-    },
-    {
-      "count": 2,
-      "language": "ChucK"
-    },
-    {
-      "count": 2,
-      "language": "Nemerle"
     },
     {
       "count": 2,
@@ -431,39 +387,55 @@
     },
     {
       "count": 2,
-      "language": "Prolog"
+      "language": "Bison"
+    },
+    {
+      "count": 2,
+      "language": "Propeller Spin"
+    },
+    {
+      "count": 2,
+      "language": "Nemerle"
+    },
+    {
+      "count": 2,
+      "language": "ChucK"
+    },
+    {
+      "count": 2,
+      "language": "Pan"
+    },
+    {
+      "count": 2,
+      "language": "Kotlin"
+    },
+    {
+      "count": 2,
+      "language": "Objective-J"
+    },
+    {
+      "count": 2,
+      "language": "Stata"
+    },
+    {
+      "count": 2,
+      "language": "Perl6"
+    },
+    {
+      "count": 2,
+      "language": "Mako"
     },
     {
       "count": 2,
       "language": "Hack"
     },
     {
-      "count": 1,
-      "language": "LiveScript"
+      "count": 2,
+      "language": "Prolog"
     },
     {
-      "count": 1,
-      "language": "Crystal"
-    },
-    {
-      "count": 1,
-      "language": "PureScript"
-    },
-    {
-      "count": 1,
-      "language": "Frege"
-    },
-    {
-      "count": 1,
-      "language": "SystemVerilog"
-    },
-    {
-      "count": 1,
-      "language": "OpenEdge ABL"
-    },
-    {
-      "count": 1,
-      "language": "Protocol Buffer"
+      "count": 2,
+      "language": "Xtend"
     },
     {
       "count": 1,
@@ -471,11 +443,23 @@
     },
     {
       "count": 1,
+      "language": "LiveScript"
+    },
+    {
+      "count": 1,
+      "language": "Frege"
+    },
+    {
+      "count": 1,
+      "language": "Slash"
+    },
+    {
+      "count": 1,
       "language": "Forth"
     },
     {
       "count": 1,
-      "language": "PAWN"
+      "language": "OpenEdge ABL"
     },
     {
       "count": 1,
@@ -483,11 +467,27 @@
     },
     {
       "count": 1,
-      "language": "WebIDL"
+      "language": "SystemVerilog"
     },
     {
       "count": 1,
-      "language": "Slash"
+      "language": "Protocol Buffer"
+    },
+    {
+      "count": 1,
+      "language": "PureScript"
+    },
+    {
+      "count": 1,
+      "language": "PAWN"
+    },
+    {
+      "count": 1,
+      "language": "Crystal"
+    },
+    {
+      "count": 1,
+      "language": "WebIDL"
     }
   ]
 }

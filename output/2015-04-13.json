@@ -83,11 +83,11 @@
     },
     {
       "count": 99,
-      "language": "Haskell"
+      "language": "DM"
     },
     {
       "count": 99,
-      "language": "DM"
+      "language": "Haskell"
     },
     {
       "count": 95,
@@ -107,15 +107,15 @@
     },
     {
       "count": 63,
-      "language": "Puppet"
-    },
-    {
-      "count": 63,
       "language": "Groovy"
     },
     {
       "count": 63,
       "language": "VimL"
+    },
+    {
+      "count": 63,
+      "language": "Puppet"
     },
     {
       "count": 60,
@@ -135,11 +135,11 @@
     },
     {
       "count": 45,
-      "language": "Racket"
+      "language": "Julia"
     },
     {
       "count": 45,
-      "language": "Julia"
+      "language": "Racket"
     },
     {
       "count": 44,
@@ -167,7 +167,7 @@
     },
     {
       "count": 24,
-      "language": "F#"
+      "language": "CMake"
     },
     {
       "count": 24,
@@ -175,7 +175,7 @@
     },
     {
       "count": 24,
-      "language": "CMake"
+      "language": "F#"
     },
     {
       "count": 22,
@@ -219,11 +219,11 @@
     },
     {
       "count": 11,
-      "language": "PostScript"
+      "language": "Scheme"
     },
     {
       "count": 11,
-      "language": "Scheme"
+      "language": "PostScript"
     },
     {
       "count": 11,
@@ -247,7 +247,7 @@
     },
     {
       "count": 8,
-      "language": "Diff"
+      "language": "Vala"
     },
     {
       "count": 8,
@@ -259,7 +259,7 @@
     },
     {
       "count": 8,
-      "language": "Vala"
+      "language": "Diff"
     },
     {
       "count": 7,
@@ -267,7 +267,7 @@
     },
     {
       "count": 6,
-      "language": "Pascal"
+      "language": "LLVM"
     },
     {
       "count": 6,
@@ -275,7 +275,19 @@
     },
     {
       "count": 6,
-      "language": "LLVM"
+      "language": "Pascal"
+    },
+    {
+      "count": 5,
+      "language": "Brainfuck"
+    },
+    {
+      "count": 5,
+      "language": "RenderScript"
+    },
+    {
+      "count": 5,
+      "language": "LoomScript"
     },
     {
       "count": 5,
@@ -287,47 +299,7 @@
     },
     {
       "count": 5,
-      "language": "Brainfuck"
-    },
-    {
-      "count": 5,
-      "language": "LoomScript"
-    },
-    {
-      "count": 5,
-      "language": "RenderScript"
-    },
-    {
-      "count": 5,
       "language": "Cucumber"
-    },
-    {
-      "count": 4,
-      "language": "Perl6"
-    },
-    {
-      "count": 4,
-      "language": "Logos"
-    },
-    {
-      "count": 4,
-      "language": "VHDL"
-    },
-    {
-      "count": 4,
-      "language": "AutoIt"
-    },
-    {
-      "count": 4,
-      "language": "XML"
-    },
-    {
-      "count": 4,
-      "language": "IDL"
-    },
-    {
-      "count": 4,
-      "language": "SQLPL"
     },
     {
       "count": 4,
@@ -335,15 +307,35 @@
     },
     {
       "count": 4,
+      "language": "Logos"
+    },
+    {
+      "count": 4,
+      "language": "XML"
+    },
+    {
+      "count": 4,
+      "language": "SQLPL"
+    },
+    {
+      "count": 4,
       "language": "ooc"
     },
     {
-      "count": 3,
-      "language": "Verilog"
+      "count": 4,
+      "language": "AutoIt"
     },
     {
-      "count": 3,
-      "language": "Kotlin"
+      "count": 4,
+      "language": "IDL"
+    },
+    {
+      "count": 4,
+      "language": "Perl6"
+    },
+    {
+      "count": 4,
+      "language": "VHDL"
     },
     {
       "count": 3,
@@ -354,20 +346,16 @@
       "language": "Processing"
     },
     {
+      "count": 3,
+      "language": "Kotlin"
+    },
+    {
+      "count": 3,
+      "language": "Verilog"
+    },
+    {
       "count": 2,
       "language": "EmberScript"
-    },
-    {
-      "count": 2,
-      "language": "Propeller Spin"
-    },
-    {
-      "count": 2,
-      "language": "XQuery"
-    },
-    {
-      "count": 2,
-      "language": "Slash"
     },
     {
       "count": 2,
@@ -375,7 +363,7 @@
     },
     {
       "count": 2,
-      "language": "Gosu"
+      "language": "Dylan"
     },
     {
       "count": 2,
@@ -383,31 +371,7 @@
     },
     {
       "count": 2,
-      "language": "Game Maker Language"
-    },
-    {
-      "count": 2,
-      "language": "AutoHotkey"
-    },
-    {
-      "count": 2,
-      "language": "QML"
-    },
-    {
-      "count": 2,
-      "language": "Crystal"
-    },
-    {
-      "count": 2,
-      "language": "Dylan"
-    },
-    {
-      "count": 2,
-      "language": "Gettext Catalog"
-    },
-    {
-      "count": 2,
-      "language": "Parrot"
+      "language": "Propeller Spin"
     },
     {
       "count": 2,
@@ -415,7 +379,59 @@
     },
     {
       "count": 2,
+      "language": "Game Maker Language"
+    },
+    {
+      "count": 2,
+      "language": "Gosu"
+    },
+    {
+      "count": 2,
+      "language": "Crystal"
+    },
+    {
+      "count": 2,
+      "language": "Gettext Catalog"
+    },
+    {
+      "count": 2,
+      "language": "QML"
+    },
+    {
+      "count": 2,
       "language": "Eagle"
+    },
+    {
+      "count": 2,
+      "language": "AutoHotkey"
+    },
+    {
+      "count": 2,
+      "language": "Parrot"
+    },
+    {
+      "count": 2,
+      "language": "Slash"
+    },
+    {
+      "count": 2,
+      "language": "XQuery"
+    },
+    {
+      "count": 1,
+      "language": "Tcl"
+    },
+    {
+      "count": 1,
+      "language": "Mako"
+    },
+    {
+      "count": 1,
+      "language": "Objective-J"
+    },
+    {
+      "count": 1,
+      "language": "Bison"
     },
     {
       "count": 1,
@@ -427,43 +443,7 @@
     },
     {
       "count": 1,
-      "language": "Bison"
-    },
-    {
-      "count": 1,
-      "language": "SourcePawn"
-    },
-    {
-      "count": 1,
-      "language": "Objective-J"
-    },
-    {
-      "count": 1,
-      "language": "JSONiq"
-    },
-    {
-      "count": 1,
-      "language": "Hack"
-    },
-    {
-      "count": 1,
-      "language": "Stata"
-    },
-    {
-      "count": 1,
       "language": "ChucK"
-    },
-    {
-      "count": 1,
-      "language": "Protocol Buffer"
-    },
-    {
-      "count": 1,
-      "language": "Mako"
-    },
-    {
-      "count": 1,
-      "language": "Tcl"
     },
     {
       "count": 1,
@@ -471,7 +451,27 @@
     },
     {
       "count": 1,
+      "language": "SourcePawn"
+    },
+    {
+      "count": 1,
       "language": "SystemVerilog"
+    },
+    {
+      "count": 1,
+      "language": "Hack"
+    },
+    {
+      "count": 1,
+      "language": "JSONiq"
+    },
+    {
+      "count": 1,
+      "language": "Protocol Buffer"
+    },
+    {
+      "count": 1,
+      "language": "Stata"
     }
   ]
 }

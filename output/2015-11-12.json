@@ -195,11 +195,11 @@
     },
     {
       "count": 23,
-      "language": "Common Lisp"
+      "language": "PureScript"
     },
     {
       "count": 23,
-      "language": "PureScript"
+      "language": "Common Lisp"
     },
     {
       "count": 21,
@@ -215,11 +215,11 @@
     },
     {
       "count": 18,
-      "language": "D"
+      "language": "Chapel"
     },
     {
       "count": 18,
-      "language": "Chapel"
+      "language": "D"
     },
     {
       "count": 17,
@@ -227,11 +227,11 @@
     },
     {
       "count": 16,
-      "language": "Hack"
+      "language": "Assembly"
     },
     {
       "count": 16,
-      "language": "Assembly"
+      "language": "Hack"
     },
     {
       "count": 15,
@@ -259,15 +259,15 @@
     },
     {
       "count": 11,
+      "language": "SQLPL"
+    },
+    {
+      "count": 11,
       "language": "Haxe"
     },
     {
       "count": 11,
       "language": "Web Ontology Language"
-    },
-    {
-      "count": 11,
-      "language": "SQLPL"
     },
     {
       "count": 10,
@@ -279,10 +279,6 @@
     },
     {
       "count": 9,
-      "language": "Cucumber"
-    },
-    {
-      "count": 9,
       "language": "Racket"
     },
     {
@@ -290,12 +286,16 @@
       "language": "Mako"
     },
     {
-      "count": 8,
-      "language": "PLSQL"
+      "count": 9,
+      "language": "Cucumber"
     },
     {
       "count": 8,
-      "language": "Nimrod"
+      "language": "Gosu"
+    },
+    {
+      "count": 8,
+      "language": "PLSQL"
     },
     {
       "count": 8,
@@ -307,15 +307,23 @@
     },
     {
       "count": 8,
+      "language": "Nimrod"
+    },
+    {
+      "count": 8,
       "language": "XQuery"
     },
     {
       "count": 8,
-      "language": "Gosu"
+      "language": "Verilog"
     },
     {
-      "count": 8,
-      "language": "Verilog"
+      "count": 6,
+      "language": "Crystal"
+    },
+    {
+      "count": 6,
+      "language": "AutoHotkey"
     },
     {
       "count": 6,
@@ -327,31 +335,15 @@
     },
     {
       "count": 6,
-      "language": "AutoHotkey"
-    },
-    {
-      "count": 6,
-      "language": "Crystal"
+      "language": "Scheme"
     },
     {
       "count": 6,
       "language": "Turing"
     },
     {
-      "count": 6,
-      "language": "Scheme"
-    },
-    {
       "count": 5,
-      "language": "BitBake"
-    },
-    {
-      "count": 5,
-      "language": "Cuda"
-    },
-    {
-      "count": 5,
-      "language": "Eagle"
+      "language": "IDL"
     },
     {
       "count": 5,
@@ -359,11 +351,11 @@
     },
     {
       "count": 5,
-      "language": "SQF"
+      "language": "BitBake"
     },
     {
       "count": 5,
-      "language": "Tcl"
+      "language": "SQF"
     },
     {
       "count": 5,
@@ -375,23 +367,23 @@
     },
     {
       "count": 5,
-      "language": "IDL"
+      "language": "Eagle"
     },
     {
-      "count": 4,
-      "language": "Liquid"
+      "count": 5,
+      "language": "Cuda"
     },
     {
-      "count": 4,
-      "language": "Standard ML"
-    },
-    {
-      "count": 4,
-      "language": "PostScript"
+      "count": 5,
+      "language": "Tcl"
     },
     {
       "count": 4,
       "language": "Elm"
+    },
+    {
+      "count": 4,
+      "language": "PostScript"
     },
     {
       "count": 4,
@@ -406,12 +398,20 @@
       "language": "LilyPond"
     },
     {
-      "count": 3,
-      "language": "Prolog"
+      "count": 4,
+      "language": "Standard ML"
+    },
+    {
+      "count": 4,
+      "language": "Liquid"
     },
     {
       "count": 3,
-      "language": "Thrift"
+      "language": "Ada"
+    },
+    {
+      "count": 3,
+      "language": "Pure Data"
     },
     {
       "count": 3,
@@ -423,19 +423,7 @@
     },
     {
       "count": 3,
-      "language": "Slash"
-    },
-    {
-      "count": 3,
-      "language": "Pure Data"
-    },
-    {
-      "count": 3,
-      "language": "Eiffel"
-    },
-    {
-      "count": 3,
-      "language": "Smalltalk"
+      "language": "Thrift"
     },
     {
       "count": 3,
@@ -443,23 +431,23 @@
     },
     {
       "count": 3,
+      "language": "Slash"
+    },
+    {
+      "count": 3,
+      "language": "Smalltalk"
+    },
+    {
+      "count": 3,
       "language": "Smarty"
     },
     {
       "count": 3,
-      "language": "Ada"
+      "language": "Prolog"
     },
     {
-      "count": 2,
-      "language": "QML"
-    },
-    {
-      "count": 2,
-      "language": "REALbasic"
-    },
-    {
-      "count": 2,
-      "language": "CLIPS"
+      "count": 3,
+      "language": "Eiffel"
     },
     {
       "count": 2,
@@ -467,19 +455,11 @@
     },
     {
       "count": 2,
-      "language": "SMT"
+      "language": "Agda"
     },
     {
       "count": 2,
-      "language": "Max"
-    },
-    {
-      "count": 2,
-      "language": "LSL"
-    },
-    {
-      "count": 2,
-      "language": "LiveScript"
+      "language": "REALbasic"
     },
     {
       "count": 2,
@@ -487,7 +467,7 @@
     },
     {
       "count": 2,
-      "language": "Red"
+      "language": "CLIPS"
     },
     {
       "count": 2,
@@ -499,15 +479,35 @@
     },
     {
       "count": 2,
-      "language": "VHDL"
+      "language": "QML"
     },
     {
       "count": 2,
-      "language": "Agda"
+      "language": "LiveScript"
+    },
+    {
+      "count": 2,
+      "language": "LSL"
+    },
+    {
+      "count": 2,
+      "language": "Max"
+    },
+    {
+      "count": 2,
+      "language": "Red"
+    },
+    {
+      "count": 2,
+      "language": "SMT"
+    },
+    {
+      "count": 2,
+      "language": "VHDL"
     },
     {
       "count": 1,
-      "language": "OpenSCAD"
+      "language": "Vala"
     },
     {
       "count": 1,
@@ -519,11 +519,15 @@
     },
     {
       "count": 1,
-      "language": "Dylan"
+      "language": "Lasso"
     },
     {
       "count": 1,
-      "language": "Handlebars"
+      "language": "OpenSCAD"
+    },
+    {
+      "count": 1,
+      "language": "Dylan"
     },
     {
       "count": 1,
@@ -531,11 +535,7 @@
     },
     {
       "count": 1,
-      "language": "Lasso"
-    },
-    {
-      "count": 1,
-      "language": "Vala"
+      "language": "Handlebars"
     }
   ]
 }

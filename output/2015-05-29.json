@@ -155,11 +155,11 @@
     },
     {
       "count": 34,
-      "language": "SQF"
+      "language": "ApacheConf"
     },
     {
       "count": 34,
-      "language": "ApacheConf"
+      "language": "SQF"
     },
     {
       "count": 34,
@@ -171,11 +171,11 @@
     },
     {
       "count": 27,
-      "language": "Nix"
+      "language": "FORTRAN"
     },
     {
       "count": 27,
-      "language": "FORTRAN"
+      "language": "Nix"
     },
     {
       "count": 25,
@@ -195,11 +195,11 @@
     },
     {
       "count": 17,
-      "language": "Perl6"
+      "language": "Groff"
     },
     {
       "count": 17,
-      "language": "Groff"
+      "language": "Perl6"
     },
     {
       "count": 17,
@@ -223,11 +223,15 @@
     },
     {
       "count": 14,
-      "language": "ColdFusion"
+      "language": "Common Lisp"
     },
     {
       "count": 14,
-      "language": "Common Lisp"
+      "language": "ColdFusion"
+    },
+    {
+      "count": 13,
+      "language": "SQLPL"
     },
     {
       "count": 13,
@@ -238,16 +242,12 @@
       "language": "Processing"
     },
     {
-      "count": 13,
-      "language": "SQLPL"
+      "count": 12,
+      "language": "F#"
     },
     {
       "count": 12,
       "language": "Batchfile"
-    },
-    {
-      "count": 12,
-      "language": "F#"
     },
     {
       "count": 12,
@@ -259,15 +259,15 @@
     },
     {
       "count": 11,
-      "language": "Coq"
-    },
-    {
-      "count": 11,
       "language": "Racket"
     },
     {
       "count": 11,
       "language": "LilyPond"
+    },
+    {
+      "count": 11,
+      "language": "Coq"
     },
     {
       "count": 10,
@@ -283,10 +283,6 @@
     },
     {
       "count": 7,
-      "language": "Protocol Buffer"
-    },
-    {
-      "count": 7,
       "language": "DIGITAL Command Language"
     },
     {
@@ -295,7 +291,7 @@
     },
     {
       "count": 7,
-      "language": "Pascal"
+      "language": "Protocol Buffer"
     },
     {
       "count": 7,
@@ -303,11 +299,11 @@
     },
     {
       "count": 7,
-      "language": "AutoIt"
+      "language": "Pascal"
     },
     {
-      "count": 6,
-      "language": "CartoCSS"
+      "count": 7,
+      "language": "AutoIt"
     },
     {
       "count": 6,
@@ -315,7 +311,7 @@
     },
     {
       "count": 6,
-      "language": "PAWN"
+      "language": "Assembly"
     },
     {
       "count": 6,
@@ -323,11 +319,15 @@
     },
     {
       "count": 6,
-      "language": "Assembly"
+      "language": "CartoCSS"
+    },
+    {
+      "count": 6,
+      "language": "PAWN"
     },
     {
       "count": 5,
-      "language": "BitBake"
+      "language": "SaltStack"
     },
     {
       "count": 5,
@@ -339,11 +339,7 @@
     },
     {
       "count": 5,
-      "language": "SaltStack"
-    },
-    {
-      "count": 4,
-      "language": "PLSQL"
+      "language": "BitBake"
     },
     {
       "count": 4,
@@ -351,11 +347,15 @@
     },
     {
       "count": 4,
-      "language": "Tcl"
+      "language": "Mathematica"
     },
     {
       "count": 4,
-      "language": "Mathematica"
+      "language": "PLSQL"
+    },
+    {
+      "count": 4,
+      "language": "Tcl"
     },
     {
       "count": 4,
@@ -371,54 +371,6 @@
     },
     {
       "count": 2,
-      "language": "Liquid"
-    },
-    {
-      "count": 2,
-      "language": "Xojo"
-    },
-    {
-      "count": 2,
-      "language": "Gosu"
-    },
-    {
-      "count": 2,
-      "language": "Bluespec"
-    },
-    {
-      "count": 2,
-      "language": "AutoHotkey"
-    },
-    {
-      "count": 2,
-      "language": "LoomScript"
-    },
-    {
-      "count": 2,
-      "language": "Apex"
-    },
-    {
-      "count": 2,
-      "language": "XQuery"
-    },
-    {
-      "count": 2,
-      "language": "Cuda"
-    },
-    {
-      "count": 2,
-      "language": "Delphi"
-    },
-    {
-      "count": 2,
-      "language": "XML"
-    },
-    {
-      "count": 2,
-      "language": "Dylan"
-    },
-    {
-      "count": 2,
       "language": "Component Pascal"
     },
     {
@@ -427,35 +379,55 @@
     },
     {
       "count": 2,
+      "language": "Cuda"
+    },
+    {
+      "count": 2,
+      "language": "XML"
+    },
+    {
+      "count": 2,
+      "language": "AutoHotkey"
+    },
+    {
+      "count": 2,
+      "language": "Apex"
+    },
+    {
+      "count": 2,
+      "language": "Xojo"
+    },
+    {
+      "count": 2,
+      "language": "LoomScript"
+    },
+    {
+      "count": 2,
+      "language": "Delphi"
+    },
+    {
+      "count": 2,
+      "language": "Dylan"
+    },
+    {
+      "count": 2,
       "language": "Augeas"
     },
     {
-      "count": 1,
-      "language": "Smalltalk"
+      "count": 2,
+      "language": "Bluespec"
     },
     {
-      "count": 1,
-      "language": "Awk"
+      "count": 2,
+      "language": "Gosu"
     },
     {
-      "count": 1,
-      "language": "NSIS"
+      "count": 2,
+      "language": "XQuery"
     },
     {
-      "count": 1,
-      "language": "Eiffel"
-    },
-    {
-      "count": 1,
-      "language": "QML"
-    },
-    {
-      "count": 1,
-      "language": "Crystal"
-    },
-    {
-      "count": 1,
-      "language": "Isabelle"
+      "count": 2,
+      "language": "Liquid"
     },
     {
       "count": 1,
@@ -463,11 +435,7 @@
     },
     {
       "count": 1,
-      "language": "RobotFramework"
-    },
-    {
-      "count": 1,
-      "language": "JSONiq"
+      "language": "Crystal"
     },
     {
       "count": 1,
@@ -475,11 +443,7 @@
     },
     {
       "count": 1,
-      "language": "Chapel"
-    },
-    {
-      "count": 1,
-      "language": "Prolog"
+      "language": "Awk"
     },
     {
       "count": 1,
@@ -487,7 +451,43 @@
     },
     {
       "count": 1,
+      "language": "Isabelle"
+    },
+    {
+      "count": 1,
+      "language": "Prolog"
+    },
+    {
+      "count": 1,
+      "language": "Smalltalk"
+    },
+    {
+      "count": 1,
       "language": "wisp"
+    },
+    {
+      "count": 1,
+      "language": "Chapel"
+    },
+    {
+      "count": 1,
+      "language": "QML"
+    },
+    {
+      "count": 1,
+      "language": "RobotFramework"
+    },
+    {
+      "count": 1,
+      "language": "Eiffel"
+    },
+    {
+      "count": 1,
+      "language": "NSIS"
+    },
+    {
+      "count": 1,
+      "language": "JSONiq"
     }
   ]
 }

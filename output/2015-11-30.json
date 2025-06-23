@@ -147,11 +147,11 @@
     },
     {
       "count": 55,
-      "language": "PowerShell"
+      "language": "Erlang"
     },
     {
       "count": 55,
-      "language": "Erlang"
+      "language": "PowerShell"
     },
     {
       "count": 51,
@@ -203,11 +203,11 @@
     },
     {
       "count": 25,
-      "language": "ASP"
+      "language": "FORTRAN"
     },
     {
       "count": 25,
-      "language": "FORTRAN"
+      "language": "ASP"
     },
     {
       "count": 25,
@@ -247,11 +247,15 @@
     },
     {
       "count": 17,
-      "language": "PLpgSQL"
+      "language": "Arduino"
     },
     {
       "count": 17,
-      "language": "Arduino"
+      "language": "PLpgSQL"
+    },
+    {
+      "count": 16,
+      "language": "PureScript"
     },
     {
       "count": 16,
@@ -259,43 +263,35 @@
     },
     {
       "count": 16,
-      "language": "Eagle"
-    },
-    {
-      "count": 16,
       "language": "Haxe"
     },
     {
       "count": 16,
-      "language": "PureScript"
-    },
-    {
-      "count": 13,
-      "language": "Racket"
+      "language": "Eagle"
     },
     {
       "count": 13,
       "language": "SaltStack"
     },
     {
-      "count": 12,
-      "language": "LilyPond"
+      "count": 13,
+      "language": "Racket"
     },
     {
       "count": 12,
       "language": "Elm"
     },
     {
-      "count": 11,
-      "language": "Cucumber"
+      "count": 12,
+      "language": "LilyPond"
     },
     {
       "count": 11,
       "language": "HCL"
     },
     {
-      "count": 10,
-      "language": "Hack"
+      "count": 11,
+      "language": "Cucumber"
     },
     {
       "count": 10,
@@ -303,7 +299,19 @@
     },
     {
       "count": 10,
+      "language": "Hack"
+    },
+    {
+      "count": 10,
       "language": "Prolog"
+    },
+    {
+      "count": 8,
+      "language": "XQuery"
+    },
+    {
+      "count": 8,
+      "language": "QML"
     },
     {
       "count": 8,
@@ -311,11 +319,15 @@
     },
     {
       "count": 8,
+      "language": "Nimrod"
+    },
+    {
+      "count": 8,
       "language": "Chapel"
     },
     {
       "count": 8,
-      "language": "QML"
+      "language": "SQF"
     },
     {
       "count": 8,
@@ -326,24 +338,24 @@
       "language": "Crystal"
     },
     {
-      "count": 8,
-      "language": "Nimrod"
-    },
-    {
-      "count": 8,
-      "language": "SQF"
-    },
-    {
-      "count": 8,
-      "language": "XQuery"
+      "count": 7,
+      "language": "GAP"
     },
     {
       "count": 7,
       "language": "BitBake"
     },
     {
-      "count": 7,
-      "language": "GAP"
+      "count": 6,
+      "language": "Batchfile"
+    },
+    {
+      "count": 6,
+      "language": "AutoHotkey"
+    },
+    {
+      "count": 6,
+      "language": "ABAP"
     },
     {
       "count": 6,
@@ -355,19 +367,7 @@
     },
     {
       "count": 6,
-      "language": "Batchfile"
-    },
-    {
-      "count": 6,
       "language": "Turing"
-    },
-    {
-      "count": 6,
-      "language": "AutoHotkey"
-    },
-    {
-      "count": 6,
-      "language": "ABAP"
     },
     {
       "count": 5,
@@ -379,15 +379,11 @@
     },
     {
       "count": 4,
-      "language": "GLSL"
+      "language": "Xtend"
     },
     {
       "count": 4,
-      "language": "Nginx"
-    },
-    {
-      "count": 4,
-      "language": "SQLPL"
+      "language": "NSIS"
     },
     {
       "count": 4,
@@ -395,27 +391,19 @@
     },
     {
       "count": 4,
-      "language": "Xtend"
-    },
-    {
-      "count": 4,
       "language": "Logos"
     },
     {
       "count": 4,
-      "language": "NSIS"
+      "language": "SQLPL"
     },
     {
-      "count": 3,
-      "language": "OpenSCAD"
+      "count": 4,
+      "language": "GLSL"
     },
     {
-      "count": 3,
-      "language": "DIGITAL Command Language"
-    },
-    {
-      "count": 3,
-      "language": "Objective-C++"
+      "count": 4,
+      "language": "Nginx"
     },
     {
       "count": 3,
@@ -423,19 +411,39 @@
     },
     {
       "count": 3,
+      "language": "OpenEdge ABL"
+    },
+    {
+      "count": 3,
+      "language": "DIGITAL Command Language"
+    },
+    {
+      "count": 3,
       "language": "PostScript"
+    },
+    {
+      "count": 3,
+      "language": "OpenSCAD"
+    },
+    {
+      "count": 3,
+      "language": "Objective-C++"
     },
     {
       "count": 3,
       "language": "FreeMarker"
     },
     {
-      "count": 3,
-      "language": "OpenEdge ABL"
+      "count": 2,
+      "language": "Thrift"
     },
     {
       "count": 2,
-      "language": "Pan"
+      "language": "KiCad"
+    },
+    {
+      "count": 2,
+      "language": "Gosu"
     },
     {
       "count": 2,
@@ -443,7 +451,39 @@
     },
     {
       "count": 2,
+      "language": "Agda"
+    },
+    {
+      "count": 2,
+      "language": "Mako"
+    },
+    {
+      "count": 2,
+      "language": "Pan"
+    },
+    {
+      "count": 2,
+      "language": "HaXe"
+    },
+    {
+      "count": 2,
+      "language": "Smalltalk"
+    },
+    {
+      "count": 2,
+      "language": "Scheme"
+    },
+    {
+      "count": 2,
+      "language": "COBOL"
+    },
+    {
+      "count": 2,
       "language": "Verilog"
+    },
+    {
+      "count": 2,
+      "language": "PAWN"
     },
     {
       "count": 2,
@@ -454,52 +494,12 @@
       "language": "Vue"
     },
     {
-      "count": 2,
-      "language": "COBOL"
-    },
-    {
-      "count": 2,
-      "language": "KiCad"
-    },
-    {
-      "count": 2,
-      "language": "Smalltalk"
-    },
-    {
-      "count": 2,
-      "language": "PAWN"
-    },
-    {
-      "count": 2,
-      "language": "Gosu"
-    },
-    {
-      "count": 2,
-      "language": "Agda"
-    },
-    {
-      "count": 2,
-      "language": "Scheme"
-    },
-    {
-      "count": 2,
-      "language": "Thrift"
-    },
-    {
-      "count": 2,
-      "language": "Mako"
-    },
-    {
-      "count": 2,
-      "language": "HaXe"
+      "count": 1,
+      "language": "Lasso"
     },
     {
       "count": 1,
-      "language": "AMPL"
-    },
-    {
-      "count": 1,
-      "language": "Handlebars"
+      "language": "PLSQL"
     },
     {
       "count": 1,
@@ -507,19 +507,19 @@
     },
     {
       "count": 1,
-      "language": "Augeas"
-    },
-    {
-      "count": 1,
-      "language": "Lasso"
-    },
-    {
-      "count": 1,
       "language": "Red"
     },
     {
       "count": 1,
-      "language": "PLSQL"
+      "language": "Handlebars"
+    },
+    {
+      "count": 1,
+      "language": "AMPL"
+    },
+    {
+      "count": 1,
+      "language": "Augeas"
     }
   ]
 }

@@ -155,11 +155,11 @@
     },
     {
       "count": 30,
-      "language": "F#"
+      "language": "LLVM"
     },
     {
       "count": 30,
-      "language": "LLVM"
+      "language": "F#"
     },
     {
       "count": 29,
@@ -203,7 +203,7 @@
     },
     {
       "count": 12,
-      "language": "D"
+      "language": "Standard ML"
     },
     {
       "count": 12,
@@ -215,15 +215,15 @@
     },
     {
       "count": 12,
-      "language": "Standard ML"
-    },
-    {
-      "count": 11,
-      "language": "PostScript"
+      "language": "D"
     },
     {
       "count": 11,
       "language": "Groff"
+    },
+    {
+      "count": 11,
+      "language": "PostScript"
     },
     {
       "count": 11,
@@ -247,7 +247,7 @@
     },
     {
       "count": 7,
-      "language": "KiCad"
+      "language": "Arduino"
     },
     {
       "count": 7,
@@ -255,19 +255,11 @@
     },
     {
       "count": 7,
-      "language": "SourcePawn"
+      "language": "KiCad"
     },
     {
       "count": 7,
-      "language": "Arduino"
-    },
-    {
-      "count": 6,
-      "language": "Racket"
-    },
-    {
-      "count": 6,
-      "language": "PureScript"
+      "language": "SourcePawn"
     },
     {
       "count": 6,
@@ -275,7 +267,7 @@
     },
     {
       "count": 6,
-      "language": "Assembly"
+      "language": "Racket"
     },
     {
       "count": 6,
@@ -287,7 +279,15 @@
     },
     {
       "count": 6,
+      "language": "PureScript"
+    },
+    {
+      "count": 6,
       "language": "QML"
+    },
+    {
+      "count": 6,
+      "language": "Assembly"
     },
     {
       "count": 5,
@@ -295,11 +295,15 @@
     },
     {
       "count": 5,
+      "language": "Kotlin"
+    },
+    {
+      "count": 5,
       "language": "Tcl"
     },
     {
       "count": 5,
-      "language": "CartoCSS"
+      "language": "BitBake"
     },
     {
       "count": 5,
@@ -311,15 +315,15 @@
     },
     {
       "count": 5,
-      "language": "BitBake"
-    },
-    {
-      "count": 5,
-      "language": "Kotlin"
+      "language": "CartoCSS"
     },
     {
       "count": 4,
-      "language": "Objective-C++"
+      "language": "SQLPL"
+    },
+    {
+      "count": 4,
+      "language": "Vala"
     },
     {
       "count": 4,
@@ -331,19 +335,7 @@
     },
     {
       "count": 4,
-      "language": "Vala"
-    },
-    {
-      "count": 4,
-      "language": "SQLPL"
-    },
-    {
-      "count": 3,
-      "language": "Smalltalk"
-    },
-    {
-      "count": 3,
-      "language": "Gnuplot"
+      "language": "Objective-C++"
     },
     {
       "count": 3,
@@ -351,43 +343,23 @@
     },
     {
       "count": 3,
-      "language": "Mathematica"
+      "language": "Mirah"
     },
     {
       "count": 3,
-      "language": "Mirah"
+      "language": "Gnuplot"
     },
     {
       "count": 3,
       "language": "Cucumber"
     },
     {
-      "count": 2,
-      "language": "NetLogo"
+      "count": 3,
+      "language": "Mathematica"
     },
     {
-      "count": 2,
-      "language": "LiveScript"
-    },
-    {
-      "count": 2,
-      "language": "Coq"
-    },
-    {
-      "count": 2,
-      "language": "OpenSCAD"
-    },
-    {
-      "count": 2,
-      "language": "Logos"
-    },
-    {
-      "count": 2,
-      "language": "Scheme"
-    },
-    {
-      "count": 2,
-      "language": "SQF"
+      "count": 3,
+      "language": "Smalltalk"
     },
     {
       "count": 2,
@@ -395,7 +367,11 @@
     },
     {
       "count": 2,
-      "language": "API Blueprint"
+      "language": "Grammatical Framework"
+    },
+    {
+      "count": 2,
+      "language": "Yacc"
     },
     {
       "count": 2,
@@ -403,15 +379,7 @@
     },
     {
       "count": 2,
-      "language": "LSL"
-    },
-    {
-      "count": 2,
-      "language": "Grammatical Framework"
-    },
-    {
-      "count": 2,
-      "language": "Red"
+      "language": "LiveScript"
     },
     {
       "count": 2,
@@ -419,31 +387,43 @@
     },
     {
       "count": 2,
-      "language": "Yacc"
+      "language": "SQF"
+    },
+    {
+      "count": 2,
+      "language": "LSL"
+    },
+    {
+      "count": 2,
+      "language": "Red"
+    },
+    {
+      "count": 2,
+      "language": "Scheme"
+    },
+    {
+      "count": 2,
+      "language": "API Blueprint"
+    },
+    {
+      "count": 2,
+      "language": "OpenSCAD"
+    },
+    {
+      "count": 2,
+      "language": "Coq"
+    },
+    {
+      "count": 2,
+      "language": "NetLogo"
+    },
+    {
+      "count": 2,
+      "language": "Logos"
     },
     {
       "count": 1,
-      "language": "Batchfile"
-    },
-    {
-      "count": 1,
-      "language": "Dylan"
-    },
-    {
-      "count": 1,
-      "language": "SuperCollider"
-    },
-    {
-      "count": 1,
-      "language": "Processing"
-    },
-    {
-      "count": 1,
-      "language": "Io"
-    },
-    {
-      "count": 1,
-      "language": "ASP"
+      "language": "Game Maker Language"
     },
     {
       "count": 1,
@@ -451,11 +431,31 @@
     },
     {
       "count": 1,
+      "language": "Io"
+    },
+    {
+      "count": 1,
+      "language": "Batchfile"
+    },
+    {
+      "count": 1,
+      "language": "SuperCollider"
+    },
+    {
+      "count": 1,
       "language": "AppleScript"
     },
     {
       "count": 1,
-      "language": "Game Maker Language"
+      "language": "Dylan"
+    },
+    {
+      "count": 1,
+      "language": "ASP"
+    },
+    {
+      "count": 1,
+      "language": "Processing"
     }
   ]
 }

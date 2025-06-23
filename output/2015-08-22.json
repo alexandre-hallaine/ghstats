@@ -171,11 +171,11 @@
     },
     {
       "count": 14,
-      "language": "F#"
+      "language": "CMake"
     },
     {
       "count": 14,
-      "language": "CMake"
+      "language": "F#"
     },
     {
       "count": 12,
@@ -183,11 +183,15 @@
     },
     {
       "count": 11,
-      "language": "Apex"
+      "language": "Haxe"
     },
     {
       "count": 11,
-      "language": "Haxe"
+      "language": "Apex"
+    },
+    {
+      "count": 10,
+      "language": "Racket"
     },
     {
       "count": 10,
@@ -198,8 +202,8 @@
       "language": "NSIS"
     },
     {
-      "count": 10,
-      "language": "Racket"
+      "count": 9,
+      "language": "Nimrod"
     },
     {
       "count": 9,
@@ -210,16 +214,12 @@
       "language": "Matlab"
     },
     {
-      "count": 9,
-      "language": "Nimrod"
+      "count": 8,
+      "language": "PureScript"
     },
     {
       "count": 8,
       "language": "Batchfile"
-    },
-    {
-      "count": 8,
-      "language": "PureScript"
     },
     {
       "count": 6,
@@ -235,11 +235,15 @@
     },
     {
       "count": 5,
-      "language": "Kotlin"
+      "language": "Handlebars"
     },
     {
       "count": 5,
-      "language": "PostScript"
+      "language": "Pascal"
+    },
+    {
+      "count": 5,
+      "language": "ActionScript"
     },
     {
       "count": 5,
@@ -251,27 +255,15 @@
     },
     {
       "count": 5,
+      "language": "PostScript"
+    },
+    {
+      "count": 5,
+      "language": "Kotlin"
+    },
+    {
+      "count": 5,
       "language": "GLSL"
-    },
-    {
-      "count": 5,
-      "language": "ActionScript"
-    },
-    {
-      "count": 5,
-      "language": "Pascal"
-    },
-    {
-      "count": 5,
-      "language": "Handlebars"
-    },
-    {
-      "count": 4,
-      "language": "LiveScript"
-    },
-    {
-      "count": 4,
-      "language": "Dart"
     },
     {
       "count": 4,
@@ -279,11 +271,19 @@
     },
     {
       "count": 4,
-      "language": "XML"
+      "language": "Dart"
+    },
+    {
+      "count": 4,
+      "language": "Red"
     },
     {
       "count": 4,
       "language": "Logos"
+    },
+    {
+      "count": 4,
+      "language": "Standard ML"
     },
     {
       "count": 4,
@@ -295,15 +295,11 @@
     },
     {
       "count": 4,
-      "language": "Red"
+      "language": "LiveScript"
     },
     {
       "count": 4,
-      "language": "Standard ML"
-    },
-    {
-      "count": 3,
-      "language": "Assembly"
+      "language": "XML"
     },
     {
       "count": 3,
@@ -311,63 +307,19 @@
     },
     {
       "count": 3,
-      "language": "Inno Setup"
+      "language": "Assembly"
     },
     {
       "count": 3,
       "language": "Eagle"
     },
     {
-      "count": 2,
-      "language": "Inform 7"
+      "count": 3,
+      "language": "Inno Setup"
     },
     {
       "count": 2,
-      "language": "AppleScript"
-    },
-    {
-      "count": 2,
-      "language": "VHDL"
-    },
-    {
-      "count": 2,
-      "language": "Propeller Spin"
-    },
-    {
-      "count": 2,
-      "language": "PLpgSQL"
-    },
-    {
-      "count": 2,
-      "language": "AutoHotkey"
-    },
-    {
-      "count": 2,
-      "language": "OpenSCAD"
-    },
-    {
-      "count": 2,
-      "language": "CartoCSS"
-    },
-    {
-      "count": 2,
-      "language": "API Blueprint"
-    },
-    {
-      "count": 2,
-      "language": "Lasso"
-    },
-    {
-      "count": 2,
-      "language": "AutoIt"
-    },
-    {
-      "count": 2,
-      "language": "NetLogo"
-    },
-    {
-      "count": 2,
-      "language": "Objective-J"
+      "language": "BlitzMax"
     },
     {
       "count": 2,
@@ -375,11 +327,55 @@
     },
     {
       "count": 2,
-      "language": "BlitzMax"
+      "language": "OpenSCAD"
     },
     {
-      "count": 1,
-      "language": "FORTRAN"
+      "count": 2,
+      "language": "AutoHotkey"
+    },
+    {
+      "count": 2,
+      "language": "API Blueprint"
+    },
+    {
+      "count": 2,
+      "language": "AppleScript"
+    },
+    {
+      "count": 2,
+      "language": "NetLogo"
+    },
+    {
+      "count": 2,
+      "language": "CartoCSS"
+    },
+    {
+      "count": 2,
+      "language": "Lasso"
+    },
+    {
+      "count": 2,
+      "language": "PLpgSQL"
+    },
+    {
+      "count": 2,
+      "language": "VHDL"
+    },
+    {
+      "count": 2,
+      "language": "Objective-J"
+    },
+    {
+      "count": 2,
+      "language": "Propeller Spin"
+    },
+    {
+      "count": 2,
+      "language": "Inform 7"
+    },
+    {
+      "count": 2,
+      "language": "AutoIt"
     },
     {
       "count": 1,
@@ -387,19 +383,7 @@
     },
     {
       "count": 1,
-      "language": "Vala"
-    },
-    {
-      "count": 1,
-      "language": "Augeas"
-    },
-    {
-      "count": 1,
-      "language": "SQLPL"
-    },
-    {
-      "count": 1,
-      "language": "Factor"
+      "language": "PicoLisp"
     },
     {
       "count": 1,
@@ -411,7 +395,27 @@
     },
     {
       "count": 1,
-      "language": "PicoLisp"
+      "language": "Factor"
+    },
+    {
+      "count": 1,
+      "language": "Vala"
+    },
+    {
+      "count": 1,
+      "language": "Augeas"
+    },
+    {
+      "count": 1,
+      "language": "FORTRAN"
+    },
+    {
+      "count": 1,
+      "language": "Mathematica"
+    },
+    {
+      "count": 1,
+      "language": "SQLPL"
     },
     {
       "count": 1,
@@ -420,10 +424,6 @@
     {
       "count": 1,
       "language": "LSL"
-    },
-    {
-      "count": 1,
-      "language": "Mathematica"
     }
   ]
 }

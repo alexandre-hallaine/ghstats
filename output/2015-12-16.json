@@ -175,11 +175,11 @@
     },
     {
       "count": 32,
-      "language": "Assembly"
+      "language": "Common Lisp"
     },
     {
       "count": 32,
-      "language": "Common Lisp"
+      "language": "Assembly"
     },
     {
       "count": 31,
@@ -199,10 +199,6 @@
     },
     {
       "count": 28,
-      "language": "ApacheConf"
-    },
-    {
-      "count": 28,
       "language": "Nix"
     },
     {
@@ -210,8 +206,16 @@
       "language": "ColdFusion"
     },
     {
+      "count": 28,
+      "language": "ApacheConf"
+    },
+    {
       "count": 26,
       "language": "HCL"
+    },
+    {
+      "count": 23,
+      "language": "Apex"
     },
     {
       "count": 23,
@@ -220,10 +224,6 @@
     {
       "count": 23,
       "language": "Modelica"
-    },
-    {
-      "count": 23,
-      "language": "Apex"
     },
     {
       "count": 21,
@@ -255,19 +255,11 @@
     },
     {
       "count": 15,
-      "language": "Cuda"
-    },
-    {
-      "count": 15,
       "language": "ActionScript"
     },
     {
-      "count": 12,
-      "language": "AutoHotkey"
-    },
-    {
-      "count": 12,
-      "language": "Protocol Buffer"
+      "count": 15,
+      "language": "Cuda"
     },
     {
       "count": 12,
@@ -275,15 +267,23 @@
     },
     {
       "count": 12,
+      "language": "FreeMarker"
+    },
+    {
+      "count": 12,
+      "language": "AutoHotkey"
+    },
+    {
+      "count": 12,
       "language": "Racket"
     },
     {
       "count": 12,
-      "language": "DIGITAL Command Language"
+      "language": "Protocol Buffer"
     },
     {
       "count": 12,
-      "language": "FreeMarker"
+      "language": "DIGITAL Command Language"
     },
     {
       "count": 11,
@@ -291,7 +291,7 @@
     },
     {
       "count": 10,
-      "language": "SourcePawn"
+      "language": "Web Ontology Language"
     },
     {
       "count": 10,
@@ -299,7 +299,7 @@
     },
     {
       "count": 10,
-      "language": "Web Ontology Language"
+      "language": "KiCad"
     },
     {
       "count": 10,
@@ -307,15 +307,15 @@
     },
     {
       "count": 10,
-      "language": "KiCad"
-    },
-    {
-      "count": 8,
-      "language": "D"
+      "language": "SourcePawn"
     },
     {
       "count": 8,
       "language": "ooc"
+    },
+    {
+      "count": 8,
+      "language": "D"
     },
     {
       "count": 8,
@@ -327,11 +327,11 @@
     },
     {
       "count": 7,
-      "language": "Coq"
+      "language": "Perl6"
     },
     {
       "count": 7,
-      "language": "Perl6"
+      "language": "Coq"
     },
     {
       "count": 6,
@@ -339,7 +339,7 @@
     },
     {
       "count": 6,
-      "language": "Crystal"
+      "language": "API Blueprint"
     },
     {
       "count": 6,
@@ -347,11 +347,11 @@
     },
     {
       "count": 6,
-      "language": "API Blueprint"
+      "language": "NetLogo"
     },
     {
       "count": 6,
-      "language": "NetLogo"
+      "language": "Crystal"
     },
     {
       "count": 5,
@@ -359,11 +359,7 @@
     },
     {
       "count": 4,
-      "language": "SAS"
-    },
-    {
-      "count": 4,
-      "language": "Handlebars"
+      "language": "Eiffel"
     },
     {
       "count": 4,
@@ -371,11 +367,15 @@
     },
     {
       "count": 4,
+      "language": "SAS"
+    },
+    {
+      "count": 4,
       "language": "Tcl"
     },
     {
       "count": 4,
-      "language": "Eiffel"
+      "language": "Handlebars"
     },
     {
       "count": 4,
@@ -383,15 +383,7 @@
     },
     {
       "count": 3,
-      "language": "Nginx"
-    },
-    {
-      "count": 3,
-      "language": "Objective-C++"
-    },
-    {
-      "count": 3,
-      "language": "Cucumber"
+      "language": "Standard ML"
     },
     {
       "count": 3,
@@ -403,47 +395,31 @@
     },
     {
       "count": 3,
-      "language": "BitBake"
-    },
-    {
-      "count": 3,
-      "language": "Standard ML"
-    },
-    {
-      "count": 3,
       "language": "XQuery"
+    },
+    {
+      "count": 3,
+      "language": "Cucumber"
+    },
+    {
+      "count": 3,
+      "language": "Objective-C++"
     },
     {
       "count": 3,
       "language": "ASP"
     },
     {
-      "count": 2,
-      "language": "XML"
+      "count": 3,
+      "language": "BitBake"
     },
     {
-      "count": 2,
-      "language": "QML"
-    },
-    {
-      "count": 2,
-      "language": "Vue"
-    },
-    {
-      "count": 2,
-      "language": "SQF"
-    },
-    {
-      "count": 2,
-      "language": "Forth"
+      "count": 3,
+      "language": "Nginx"
     },
     {
       "count": 2,
       "language": "PAWN"
-    },
-    {
-      "count": 2,
-      "language": "Prolog"
     },
     {
       "count": 2,
@@ -455,7 +431,11 @@
     },
     {
       "count": 2,
-      "language": "LSL"
+      "language": "QML"
+    },
+    {
+      "count": 2,
+      "language": "Vue"
     },
     {
       "count": 2,
@@ -463,11 +443,43 @@
     },
     {
       "count": 2,
-      "language": "AutoIt"
+      "language": "Forth"
+    },
+    {
+      "count": 2,
+      "language": "Prolog"
+    },
+    {
+      "count": 2,
+      "language": "XML"
+    },
+    {
+      "count": 2,
+      "language": "SQF"
     },
     {
       "count": 2,
       "language": "Game Maker Language"
+    },
+    {
+      "count": 2,
+      "language": "AutoIt"
+    },
+    {
+      "count": 2,
+      "language": "LSL"
+    },
+    {
+      "count": 1,
+      "language": "Scilab"
+    },
+    {
+      "count": 1,
+      "language": "Slash"
+    },
+    {
+      "count": 1,
+      "language": "Ragel in Ruby Host"
     },
     {
       "count": 1,
@@ -475,7 +487,27 @@
     },
     {
       "count": 1,
-      "language": "Scilab"
+      "language": "PicoLisp"
+    },
+    {
+      "count": 1,
+      "language": "LabVIEW"
+    },
+    {
+      "count": 1,
+      "language": "Smalltalk"
+    },
+    {
+      "count": 1,
+      "language": "MTML"
+    },
+    {
+      "count": 1,
+      "language": "Cap'n Proto"
+    },
+    {
+      "count": 1,
+      "language": "LLVM"
     },
     {
       "count": 1,
@@ -488,38 +520,6 @@
     {
       "count": 1,
       "language": "NSIS"
-    },
-    {
-      "count": 1,
-      "language": "LabVIEW"
-    },
-    {
-      "count": 1,
-      "language": "Cap'n Proto"
-    },
-    {
-      "count": 1,
-      "language": "LLVM"
-    },
-    {
-      "count": 1,
-      "language": "MTML"
-    },
-    {
-      "count": 1,
-      "language": "PicoLisp"
-    },
-    {
-      "count": 1,
-      "language": "Slash"
-    },
-    {
-      "count": 1,
-      "language": "Smalltalk"
-    },
-    {
-      "count": 1,
-      "language": "Ragel in Ruby Host"
     },
     {
       "count": 1,

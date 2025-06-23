@@ -119,11 +119,11 @@
     },
     {
       "count": 43,
-      "language": "VimL"
+      "language": "Elixir"
     },
     {
       "count": 43,
-      "language": "Elixir"
+      "language": "VimL"
     },
     {
       "count": 42,
@@ -131,7 +131,7 @@
     },
     {
       "count": 37,
-      "language": "R"
+      "language": "Common Lisp"
     },
     {
       "count": 37,
@@ -139,7 +139,7 @@
     },
     {
       "count": 37,
-      "language": "Common Lisp"
+      "language": "R"
     },
     {
       "count": 33,
@@ -159,7 +159,7 @@
     },
     {
       "count": 18,
-      "language": "Perl6"
+      "language": "PowerShell"
     },
     {
       "count": 18,
@@ -167,15 +167,15 @@
     },
     {
       "count": 18,
-      "language": "PowerShell"
-    },
-    {
-      "count": 16,
-      "language": "F#"
+      "language": "Perl6"
     },
     {
       "count": 16,
       "language": "D"
+    },
+    {
+      "count": 16,
+      "language": "F#"
     },
     {
       "count": 15,
@@ -191,15 +191,19 @@
     },
     {
       "count": 12,
-      "language": "Pascal"
+      "language": "Assembly"
     },
     {
       "count": 12,
-      "language": "Assembly"
+      "language": "Pascal"
     },
     {
       "count": 10,
       "language": "CMake"
+    },
+    {
+      "count": 9,
+      "language": "OCaml"
     },
     {
       "count": 9,
@@ -210,14 +214,6 @@
       "language": "Groff"
     },
     {
-      "count": 9,
-      "language": "OCaml"
-    },
-    {
-      "count": 8,
-      "language": "Haxe"
-    },
-    {
       "count": 8,
       "language": "ActionScript"
     },
@@ -226,8 +222,8 @@
       "language": "NSIS"
     },
     {
-      "count": 7,
-      "language": "FORTRAN"
+      "count": 8,
+      "language": "Haxe"
     },
     {
       "count": 7,
@@ -235,7 +231,7 @@
     },
     {
       "count": 7,
-      "language": "Processing"
+      "language": "SourcePawn"
     },
     {
       "count": 7,
@@ -243,19 +239,19 @@
     },
     {
       "count": 7,
-      "language": "Coq"
+      "language": "FORTRAN"
     },
     {
       "count": 7,
-      "language": "SourcePawn"
+      "language": "Processing"
     },
     {
       "count": 7,
       "language": "Racket"
     },
     {
-      "count": 6,
-      "language": "Turing"
+      "count": 7,
+      "language": "Coq"
     },
     {
       "count": 6,
@@ -263,19 +259,15 @@
     },
     {
       "count": 6,
+      "language": "Turing"
+    },
+    {
+      "count": 6,
       "language": "AutoHotkey"
     },
     {
       "count": 5,
-      "language": "QML"
-    },
-    {
-      "count": 5,
-      "language": "Eagle"
-    },
-    {
-      "count": 5,
-      "language": "AspectJ"
+      "language": "ApacheConf"
     },
     {
       "count": 5,
@@ -283,15 +275,27 @@
     },
     {
       "count": 5,
-      "language": "XSLT"
+      "language": "Eagle"
     },
     {
       "count": 5,
-      "language": "ApacheConf"
+      "language": "QML"
+    },
+    {
+      "count": 5,
+      "language": "AspectJ"
+    },
+    {
+      "count": 5,
+      "language": "XSLT"
     },
     {
       "count": 4,
       "language": "Crystal"
+    },
+    {
+      "count": 4,
+      "language": "CartoCSS"
     },
     {
       "count": 4,
@@ -307,11 +311,11 @@
     },
     {
       "count": 4,
-      "language": "CartoCSS"
+      "language": "Nginx"
     },
     {
-      "count": 4,
-      "language": "Nginx"
+      "count": 3,
+      "language": "Batchfile"
     },
     {
       "count": 3,
@@ -319,7 +323,7 @@
     },
     {
       "count": 3,
-      "language": "Modelica"
+      "language": "Elm"
     },
     {
       "count": 3,
@@ -327,51 +331,11 @@
     },
     {
       "count": 3,
-      "language": "Elm"
-    },
-    {
-      "count": 3,
       "language": "Protocol Buffer"
     },
     {
       "count": 3,
-      "language": "Batchfile"
-    },
-    {
-      "count": 2,
-      "language": "KiCad"
-    },
-    {
-      "count": 2,
-      "language": "REALbasic"
-    },
-    {
-      "count": 2,
-      "language": "Gosu"
-    },
-    {
-      "count": 2,
-      "language": "IDL"
-    },
-    {
-      "count": 2,
-      "language": "Pure Data"
-    },
-    {
-      "count": 2,
-      "language": "Tcl"
-    },
-    {
-      "count": 2,
-      "language": "SAS"
-    },
-    {
-      "count": 2,
-      "language": "Logos"
-    },
-    {
-      "count": 2,
-      "language": "PicoLisp"
+      "language": "Modelica"
     },
     {
       "count": 2,
@@ -379,11 +343,15 @@
     },
     {
       "count": 2,
-      "language": "Dylan"
+      "language": "Propeller Spin"
     },
     {
       "count": 2,
-      "language": "Propeller Spin"
+      "language": "Tcl"
+    },
+    {
+      "count": 2,
+      "language": "KiCad"
     },
     {
       "count": 2,
@@ -391,19 +359,43 @@
     },
     {
       "count": 2,
+      "language": "IDL"
+    },
+    {
+      "count": 2,
+      "language": "SAS"
+    },
+    {
+      "count": 2,
+      "language": "Dylan"
+    },
+    {
+      "count": 2,
+      "language": "Gosu"
+    },
+    {
+      "count": 2,
       "language": "UnrealScript"
     },
     {
-      "count": 1,
-      "language": "HCL"
+      "count": 2,
+      "language": "Pure Data"
+    },
+    {
+      "count": 2,
+      "language": "PicoLisp"
+    },
+    {
+      "count": 2,
+      "language": "Logos"
+    },
+    {
+      "count": 2,
+      "language": "REALbasic"
     },
     {
       "count": 1,
-      "language": "Xtend"
-    },
-    {
-      "count": 1,
-      "language": "GAP"
+      "language": "Ceylon"
     },
     {
       "count": 1,
@@ -411,11 +403,11 @@
     },
     {
       "count": 1,
-      "language": "Xojo"
+      "language": "SQLPL"
     },
     {
       "count": 1,
-      "language": "Web Ontology Language"
+      "language": "Parrot"
     },
     {
       "count": 1,
@@ -423,7 +415,11 @@
     },
     {
       "count": 1,
-      "language": "Ceylon"
+      "language": "Xtend"
+    },
+    {
+      "count": 1,
+      "language": "HCL"
     },
     {
       "count": 1,
@@ -435,11 +431,15 @@
     },
     {
       "count": 1,
-      "language": "Parrot"
+      "language": "GAP"
     },
     {
       "count": 1,
-      "language": "SQLPL"
+      "language": "Xojo"
+    },
+    {
+      "count": 1,
+      "language": "Web Ontology Language"
     }
   ]
 }

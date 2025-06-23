@@ -159,11 +159,11 @@
     },
     {
       "count": 31,
-      "language": "F#"
+      "language": "Common Lisp"
     },
     {
       "count": 31,
-      "language": "Common Lisp"
+      "language": "F#"
     },
     {
       "count": 30,
@@ -187,11 +187,11 @@
     },
     {
       "count": 20,
-      "language": "ASP"
+      "language": "Kotlin"
     },
     {
       "count": 20,
-      "language": "Kotlin"
+      "language": "ASP"
     },
     {
       "count": 19,
@@ -199,27 +199,19 @@
     },
     {
       "count": 17,
-      "language": "SQF"
-    },
-    {
-      "count": 17,
       "language": "Modelica"
     },
     {
       "count": 17,
-      "language": "FORTRAN"
+      "language": "SQF"
     },
     {
       "count": 17,
       "language": "Nix"
     },
     {
-      "count": 16,
-      "language": "PostScript"
-    },
-    {
-      "count": 16,
-      "language": "Visual Basic"
+      "count": 17,
+      "language": "FORTRAN"
     },
     {
       "count": 16,
@@ -228,6 +220,14 @@
     {
       "count": 16,
       "language": "SaltStack"
+    },
+    {
+      "count": 16,
+      "language": "Visual Basic"
+    },
+    {
+      "count": 16,
+      "language": "PostScript"
     },
     {
       "count": 14,
@@ -259,7 +259,7 @@
     },
     {
       "count": 9,
-      "language": "Apex"
+      "language": "Smarty"
     },
     {
       "count": 9,
@@ -267,7 +267,11 @@
     },
     {
       "count": 9,
-      "language": "Smarty"
+      "language": "Apex"
+    },
+    {
+      "count": 8,
+      "language": "Racket"
     },
     {
       "count": 8,
@@ -275,15 +279,11 @@
     },
     {
       "count": 8,
-      "language": "LabVIEW"
-    },
-    {
-      "count": 8,
       "language": "ActionScript"
     },
     {
       "count": 8,
-      "language": "Racket"
+      "language": "LabVIEW"
     },
     {
       "count": 7,
@@ -299,19 +299,11 @@
     },
     {
       "count": 6,
-      "language": "Crystal"
-    },
-    {
-      "count": 6,
       "language": "CartoCSS"
     },
     {
-      "count": 5,
-      "language": "Cuda"
-    },
-    {
-      "count": 5,
-      "language": "PureScript"
+      "count": 6,
+      "language": "Crystal"
     },
     {
       "count": 5,
@@ -319,7 +311,11 @@
     },
     {
       "count": 5,
-      "language": "Coq"
+      "language": "Mako"
+    },
+    {
+      "count": 5,
+      "language": "Squirrel"
     },
     {
       "count": 5,
@@ -331,7 +327,7 @@
     },
     {
       "count": 5,
-      "language": "Mako"
+      "language": "Coq"
     },
     {
       "count": 5,
@@ -339,15 +335,11 @@
     },
     {
       "count": 5,
-      "language": "Squirrel"
+      "language": "PureScript"
     },
     {
-      "count": 4,
-      "language": "GLSL"
-    },
-    {
-      "count": 4,
-      "language": "Stata"
+      "count": 5,
+      "language": "Cuda"
     },
     {
       "count": 4,
@@ -355,15 +347,7 @@
     },
     {
       "count": 4,
-      "language": "Isabelle"
-    },
-    {
-      "count": 4,
-      "language": "AutoHotkey"
-    },
-    {
-      "count": 4,
-      "language": "Nginx"
+      "language": "Stata"
     },
     {
       "count": 4,
@@ -375,15 +359,23 @@
     },
     {
       "count": 4,
+      "language": "AutoHotkey"
+    },
+    {
+      "count": 4,
+      "language": "Isabelle"
+    },
+    {
+      "count": 4,
+      "language": "GLSL"
+    },
+    {
+      "count": 4,
+      "language": "Nginx"
+    },
+    {
+      "count": 4,
       "language": "Eiffel"
-    },
-    {
-      "count": 3,
-      "language": "NSIS"
-    },
-    {
-      "count": 3,
-      "language": "Nimrod"
     },
     {
       "count": 3,
@@ -391,7 +383,7 @@
     },
     {
       "count": 3,
-      "language": "XQuery"
+      "language": "Nimrod"
     },
     {
       "count": 3,
@@ -399,11 +391,19 @@
     },
     {
       "count": 3,
-      "language": "Gnuplot"
+      "language": "PicoLisp"
     },
     {
       "count": 3,
-      "language": "PicoLisp"
+      "language": "XQuery"
+    },
+    {
+      "count": 3,
+      "language": "NSIS"
+    },
+    {
+      "count": 3,
+      "language": "Gnuplot"
     },
     {
       "count": 2,
@@ -411,47 +411,7 @@
     },
     {
       "count": 2,
-      "language": "Verilog"
-    },
-    {
-      "count": 2,
-      "language": "Tcl"
-    },
-    {
-      "count": 2,
-      "language": "Assembly"
-    },
-    {
-      "count": 2,
       "language": "Liquid"
-    },
-    {
-      "count": 2,
-      "language": "Inno Setup"
-    },
-    {
-      "count": 2,
-      "language": "BitBake"
-    },
-    {
-      "count": 2,
-      "language": "DIGITAL Command Language"
-    },
-    {
-      "count": 2,
-      "language": "Objective-J"
-    },
-    {
-      "count": 2,
-      "language": "XProc"
-    },
-    {
-      "count": 2,
-      "language": "LilyPond"
-    },
-    {
-      "count": 2,
-      "language": "Gosu"
     },
     {
       "count": 2,
@@ -459,23 +419,19 @@
     },
     {
       "count": 2,
-      "language": "Forth"
-    },
-    {
-      "count": 2,
       "language": "Elm"
     },
     {
       "count": 2,
-      "language": "NetLogo"
+      "language": "Verilog"
     },
     {
       "count": 2,
-      "language": "API Blueprint"
+      "language": "LilyPond"
     },
     {
       "count": 2,
-      "language": "OpenEdge ABL"
+      "language": "Inno Setup"
     },
     {
       "count": 2,
@@ -483,51 +439,55 @@
     },
     {
       "count": 2,
+      "language": "Assembly"
+    },
+    {
+      "count": 2,
+      "language": "API Blueprint"
+    },
+    {
+      "count": 2,
+      "language": "BitBake"
+    },
+    {
+      "count": 2,
+      "language": "XProc"
+    },
+    {
+      "count": 2,
+      "language": "Gosu"
+    },
+    {
+      "count": 2,
+      "language": "DIGITAL Command Language"
+    },
+    {
+      "count": 2,
+      "language": "Tcl"
+    },
+    {
+      "count": 2,
       "language": "Mirah"
+    },
+    {
+      "count": 2,
+      "language": "Objective-J"
+    },
+    {
+      "count": 2,
+      "language": "OpenEdge ABL"
+    },
+    {
+      "count": 2,
+      "language": "Forth"
     },
     {
       "count": 2,
       "language": "Tea"
     },
     {
-      "count": 1,
-      "language": "SQLPL"
-    },
-    {
-      "count": 1,
-      "language": "Thrift"
-    },
-    {
-      "count": 1,
-      "language": "Awk"
-    },
-    {
-      "count": 1,
-      "language": "Parrot"
-    },
-    {
-      "count": 1,
-      "language": "Protocol Buffer"
-    },
-    {
-      "count": 1,
-      "language": "Ceylon"
-    },
-    {
-      "count": 1,
-      "language": "X10"
-    },
-    {
-      "count": 1,
-      "language": "MoonScript"
-    },
-    {
-      "count": 1,
-      "language": "Diff"
-    },
-    {
-      "count": 1,
-      "language": "ANTLR"
+      "count": 2,
+      "language": "NetLogo"
     },
     {
       "count": 1,
@@ -539,11 +499,51 @@
     },
     {
       "count": 1,
-      "language": "KiCad"
+      "language": "Xtend"
     },
     {
       "count": 1,
-      "language": "Xtend"
+      "language": "SQLPL"
+    },
+    {
+      "count": 1,
+      "language": "Diff"
+    },
+    {
+      "count": 1,
+      "language": "Thrift"
+    },
+    {
+      "count": 1,
+      "language": "ANTLR"
+    },
+    {
+      "count": 1,
+      "language": "Parrot"
+    },
+    {
+      "count": 1,
+      "language": "Ceylon"
+    },
+    {
+      "count": 1,
+      "language": "X10"
+    },
+    {
+      "count": 1,
+      "language": "Awk"
+    },
+    {
+      "count": 1,
+      "language": "MoonScript"
+    },
+    {
+      "count": 1,
+      "language": "Protocol Buffer"
+    },
+    {
+      "count": 1,
+      "language": "KiCad"
     }
   ]
 }

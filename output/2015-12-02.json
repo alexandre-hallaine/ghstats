@@ -163,11 +163,11 @@
     },
     {
       "count": 41,
-      "language": "Puppet"
+      "language": "XSLT"
     },
     {
       "count": 41,
-      "language": "XSLT"
+      "language": "Puppet"
     },
     {
       "count": 32,
@@ -203,11 +203,11 @@
     },
     {
       "count": 23,
-      "language": "CMake"
+      "language": "SaltStack"
     },
     {
       "count": 23,
-      "language": "SaltStack"
+      "language": "CMake"
     },
     {
       "count": 22,
@@ -235,10 +235,6 @@
     },
     {
       "count": 16,
-      "language": "Apex"
-    },
-    {
-      "count": 16,
       "language": "D"
     },
     {
@@ -246,12 +242,16 @@
       "language": "Groff"
     },
     {
-      "count": 15,
-      "language": "PureScript"
+      "count": 16,
+      "language": "Apex"
     },
     {
       "count": 15,
       "language": "Nimrod"
+    },
+    {
+      "count": 15,
+      "language": "PureScript"
     },
     {
       "count": 14,
@@ -287,7 +287,11 @@
     },
     {
       "count": 10,
-      "language": "OpenEdge ABL"
+      "language": "Pascal"
+    },
+    {
+      "count": 10,
+      "language": "Racket"
     },
     {
       "count": 10,
@@ -299,19 +303,7 @@
     },
     {
       "count": 10,
-      "language": "Pascal"
-    },
-    {
-      "count": 10,
-      "language": "Racket"
-    },
-    {
-      "count": 9,
-      "language": "ActionScript"
-    },
-    {
-      "count": 9,
-      "language": "Modelica"
+      "language": "OpenEdge ABL"
     },
     {
       "count": 9,
@@ -319,11 +311,15 @@
     },
     {
       "count": 9,
+      "language": "ActionScript"
+    },
+    {
+      "count": 9,
       "language": "Smalltalk"
     },
     {
-      "count": 8,
-      "language": "Eagle"
+      "count": 9,
+      "language": "Modelica"
     },
     {
       "count": 8,
@@ -334,12 +330,8 @@
       "language": "Crystal"
     },
     {
-      "count": 7,
-      "language": "RobotFramework"
-    },
-    {
-      "count": 7,
-      "language": "Objective-C++"
+      "count": 8,
+      "language": "Eagle"
     },
     {
       "count": 7,
@@ -347,7 +339,19 @@
     },
     {
       "count": 7,
+      "language": "Objective-C++"
+    },
+    {
+      "count": 7,
+      "language": "RobotFramework"
+    },
+    {
+      "count": 7,
       "language": "Chapel"
+    },
+    {
+      "count": 6,
+      "language": "Volt"
     },
     {
       "count": 6,
@@ -355,11 +359,7 @@
     },
     {
       "count": 6,
-      "language": "Smali"
-    },
-    {
-      "count": 6,
-      "language": "GDScript"
+      "language": "SAS"
     },
     {
       "count": 6,
@@ -367,15 +367,11 @@
     },
     {
       "count": 6,
-      "language": "SAS"
+      "language": "GDScript"
     },
     {
       "count": 6,
-      "language": "Volt"
-    },
-    {
-      "count": 5,
-      "language": "Smarty"
+      "language": "Smali"
     },
     {
       "count": 5,
@@ -386,8 +382,8 @@
       "language": "API Blueprint"
     },
     {
-      "count": 4,
-      "language": "Prolog"
+      "count": 5,
+      "language": "Smarty"
     },
     {
       "count": 4,
@@ -395,7 +391,11 @@
     },
     {
       "count": 4,
-      "language": "Standard ML"
+      "language": "Prolog"
+    },
+    {
+      "count": 4,
+      "language": "Scheme"
     },
     {
       "count": 4,
@@ -403,35 +403,7 @@
     },
     {
       "count": 4,
-      "language": "Scheme"
-    },
-    {
-      "count": 3,
-      "language": "Cuda"
-    },
-    {
-      "count": 3,
-      "language": "Protocol Buffer"
-    },
-    {
-      "count": 3,
-      "language": "Slash"
-    },
-    {
-      "count": 3,
-      "language": "PicoLisp"
-    },
-    {
-      "count": 3,
-      "language": "Mathematica"
-    },
-    {
-      "count": 3,
-      "language": "GLSL"
-    },
-    {
-      "count": 3,
-      "language": "VHDL"
+      "language": "Standard ML"
     },
     {
       "count": 3,
@@ -439,15 +411,39 @@
     },
     {
       "count": 3,
+      "language": "PicoLisp"
+    },
+    {
+      "count": 3,
       "language": "Nginx"
+    },
+    {
+      "count": 3,
+      "language": "Mathematica"
+    },
+    {
+      "count": 3,
+      "language": "Slash"
+    },
+    {
+      "count": 3,
+      "language": "VHDL"
+    },
+    {
+      "count": 3,
+      "language": "Cuda"
+    },
+    {
+      "count": 3,
+      "language": "GLSL"
     },
     {
       "count": 3,
       "language": "QML"
     },
     {
-      "count": 2,
-      "language": "SystemVerilog"
+      "count": 3,
+      "language": "Protocol Buffer"
     },
     {
       "count": 2,
@@ -455,7 +451,43 @@
     },
     {
       "count": 2,
+      "language": "Yacc"
+    },
+    {
+      "count": 2,
+      "language": "Game Maker Language"
+    },
+    {
+      "count": 2,
+      "language": "AppleScript"
+    },
+    {
+      "count": 2,
+      "language": "Gosu"
+    },
+    {
+      "count": 2,
+      "language": "GAP"
+    },
+    {
+      "count": 2,
+      "language": "Vala"
+    },
+    {
+      "count": 2,
+      "language": "LookML"
+    },
+    {
+      "count": 2,
+      "language": "Ceylon"
+    },
+    {
+      "count": 2,
       "language": "REALbasic"
+    },
+    {
+      "count": 2,
+      "language": "Frege"
     },
     {
       "count": 2,
@@ -467,55 +499,23 @@
     },
     {
       "count": 2,
-      "language": "Vala"
+      "language": "SystemVerilog"
     },
     {
       "count": 2,
       "language": "Gnuplot"
     },
     {
-      "count": 2,
-      "language": "Yacc"
-    },
-    {
-      "count": 2,
-      "language": "AppleScript"
-    },
-    {
-      "count": 2,
-      "language": "LookML"
-    },
-    {
-      "count": 2,
-      "language": "Gosu"
-    },
-    {
-      "count": 2,
-      "language": "Frege"
-    },
-    {
-      "count": 2,
-      "language": "Game Maker Language"
-    },
-    {
-      "count": 2,
-      "language": "GAP"
-    },
-    {
-      "count": 2,
-      "language": "Ceylon"
+      "count": 1,
+      "language": "OpenSCAD"
     },
     {
       "count": 1,
-      "language": "Turing"
+      "language": "Scilab"
     },
     {
       "count": 1,
-      "language": "FreeMarker"
-    },
-    {
-      "count": 1,
-      "language": "Propeller Spin"
+      "language": "Thrift"
     },
     {
       "count": 1,
@@ -527,23 +527,11 @@
     },
     {
       "count": 1,
-      "language": "Isabelle"
-    },
-    {
-      "count": 1,
-      "language": "Thrift"
-    },
-    {
-      "count": 1,
-      "language": "Vue"
-    },
-    {
-      "count": 1,
       "language": "XML"
     },
     {
       "count": 1,
-      "language": "OpenSCAD"
+      "language": "FreeMarker"
     },
     {
       "count": 1,
@@ -551,15 +539,15 @@
     },
     {
       "count": 1,
-      "language": "Agda"
+      "language": "Turing"
     },
     {
       "count": 1,
-      "language": "Scilab"
+      "language": "Propeller Spin"
     },
     {
       "count": 1,
-      "language": "xBase"
+      "language": "Vue"
     },
     {
       "count": 1,
@@ -567,7 +555,19 @@
     },
     {
       "count": 1,
+      "language": "xBase"
+    },
+    {
+      "count": 1,
+      "language": "Isabelle"
+    },
+    {
+      "count": 1,
       "language": "Xtend"
+    },
+    {
+      "count": 1,
+      "language": "Agda"
     }
   ]
 }

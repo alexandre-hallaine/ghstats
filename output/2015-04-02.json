@@ -203,7 +203,7 @@
     },
     {
       "count": 14,
-      "language": "FORTRAN"
+      "language": "Haxe"
     },
     {
       "count": 14,
@@ -211,11 +211,7 @@
     },
     {
       "count": 14,
-      "language": "Haxe"
-    },
-    {
-      "count": 13,
-      "language": "Chapel"
+      "language": "FORTRAN"
     },
     {
       "count": 13,
@@ -227,15 +223,19 @@
     },
     {
       "count": 13,
+      "language": "Chapel"
+    },
+    {
+      "count": 13,
       "language": "Diff"
     },
     {
       "count": 12,
-      "language": "Processing"
+      "language": "Nix"
     },
     {
       "count": 12,
-      "language": "Nix"
+      "language": "Processing"
     },
     {
       "count": 11,
@@ -263,14 +263,6 @@
     },
     {
       "count": 8,
-      "language": "Tcl"
-    },
-    {
-      "count": 8,
-      "language": "Handlebars"
-    },
-    {
-      "count": 8,
       "language": "Cuda"
     },
     {
@@ -278,12 +270,12 @@
       "language": "Scheme"
     },
     {
-      "count": 7,
-      "language": "NetLogo"
+      "count": 8,
+      "language": "Tcl"
     },
     {
-      "count": 7,
-      "language": "Apex"
+      "count": 8,
+      "language": "Handlebars"
     },
     {
       "count": 7,
@@ -299,15 +291,15 @@
     },
     {
       "count": 7,
+      "language": "Apex"
+    },
+    {
+      "count": 7,
       "language": "PLSQL"
     },
     {
-      "count": 6,
-      "language": "Assembly"
-    },
-    {
-      "count": 6,
-      "language": "LabVIEW"
+      "count": 7,
+      "language": "NetLogo"
     },
     {
       "count": 6,
@@ -318,8 +310,16 @@
       "language": "Cucumber"
     },
     {
+      "count": 6,
+      "language": "LabVIEW"
+    },
+    {
+      "count": 6,
+      "language": "Assembly"
+    },
+    {
       "count": 5,
-      "language": "Vala"
+      "language": "PureScript"
     },
     {
       "count": 5,
@@ -327,11 +327,15 @@
     },
     {
       "count": 5,
-      "language": "PureScript"
+      "language": "Vala"
     },
     {
       "count": 4,
-      "language": "Propeller Spin"
+      "language": "OpenSCAD"
+    },
+    {
+      "count": 4,
+      "language": "LiveScript"
     },
     {
       "count": 4,
@@ -339,7 +343,15 @@
     },
     {
       "count": 4,
-      "language": "OpenSCAD"
+      "language": "M"
+    },
+    {
+      "count": 4,
+      "language": "Objective-C++"
+    },
+    {
+      "count": 4,
+      "language": "Propeller Spin"
     },
     {
       "count": 4,
@@ -351,27 +363,11 @@
     },
     {
       "count": 4,
-      "language": "LiveScript"
-    },
-    {
-      "count": 4,
       "language": "PostScript"
     },
     {
-      "count": 4,
-      "language": "M"
-    },
-    {
-      "count": 4,
-      "language": "Objective-C++"
-    },
-    {
       "count": 3,
-      "language": "Verilog"
-    },
-    {
-      "count": 3,
-      "language": "Red"
+      "language": "Nimrod"
     },
     {
       "count": 3,
@@ -379,7 +375,15 @@
     },
     {
       "count": 3,
-      "language": "Nimrod"
+      "language": "Red"
+    },
+    {
+      "count": 3,
+      "language": "Verilog"
+    },
+    {
+      "count": 2,
+      "language": "Stata"
     },
     {
       "count": 2,
@@ -387,7 +391,11 @@
     },
     {
       "count": 2,
-      "language": "Coq"
+      "language": "Scilab"
+    },
+    {
+      "count": 2,
+      "language": "Modelica"
     },
     {
       "count": 2,
@@ -399,23 +407,11 @@
     },
     {
       "count": 2,
-      "language": "BitBake"
+      "language": "Coq"
     },
     {
       "count": 2,
-      "language": "Modelica"
-    },
-    {
-      "count": 2,
-      "language": "Stata"
-    },
-    {
-      "count": 2,
-      "language": "XQuery"
-    },
-    {
-      "count": 2,
-      "language": "Scilab"
+      "language": "Squirrel"
     },
     {
       "count": 2,
@@ -423,31 +419,11 @@
     },
     {
       "count": 2,
-      "language": "Squirrel"
+      "language": "XQuery"
     },
     {
-      "count": 1,
-      "language": "Mirah"
-    },
-    {
-      "count": 1,
-      "language": "Ada"
-    },
-    {
-      "count": 1,
-      "language": "Protocol Buffer"
-    },
-    {
-      "count": 1,
-      "language": "FLUX"
-    },
-    {
-      "count": 1,
-      "language": "IDL"
-    },
-    {
-      "count": 1,
-      "language": "Slash"
+      "count": 2,
+      "language": "BitBake"
     },
     {
       "count": 1,
@@ -455,11 +431,35 @@
     },
     {
       "count": 1,
+      "language": "Slash"
+    },
+    {
+      "count": 1,
+      "language": "IDL"
+    },
+    {
+      "count": 1,
+      "language": "FLUX"
+    },
+    {
+      "count": 1,
+      "language": "Protocol Buffer"
+    },
+    {
+      "count": 1,
       "language": "Inform 7"
     },
     {
       "count": 1,
+      "language": "Ada"
+    },
+    {
+      "count": 1,
       "language": "VCL"
+    },
+    {
+      "count": 1,
+      "language": "Mirah"
     }
   ]
 }

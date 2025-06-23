@@ -99,11 +99,11 @@
     },
     {
       "count": 63,
-      "language": "Makefile"
+      "language": "Diff"
     },
     {
       "count": 63,
-      "language": "Diff"
+      "language": "Makefile"
     },
     {
       "count": 58,
@@ -159,11 +159,11 @@
     },
     {
       "count": 17,
-      "language": "CMake"
+      "language": "Matlab"
     },
     {
       "count": 17,
-      "language": "Matlab"
+      "language": "CMake"
     },
     {
       "count": 16,
@@ -191,23 +191,15 @@
     },
     {
       "count": 11,
-      "language": "Haxe"
+      "language": "SQF"
     },
     {
       "count": 11,
-      "language": "SQF"
+      "language": "Haxe"
     },
     {
       "count": 10,
       "language": "ASP"
-    },
-    {
-      "count": 9,
-      "language": "Racket"
-    },
-    {
-      "count": 9,
-      "language": "ActionScript"
     },
     {
       "count": 9,
@@ -218,8 +210,16 @@
       "language": "Arduino"
     },
     {
+      "count": 9,
+      "language": "Racket"
+    },
+    {
+      "count": 9,
+      "language": "ActionScript"
+    },
+    {
       "count": 8,
-      "language": "NSIS"
+      "language": "PureScript"
     },
     {
       "count": 8,
@@ -227,7 +227,7 @@
     },
     {
       "count": 8,
-      "language": "PureScript"
+      "language": "NSIS"
     },
     {
       "count": 8,
@@ -247,19 +247,7 @@
     },
     {
       "count": 4,
-      "language": "GLSL"
-    },
-    {
-      "count": 4,
-      "language": "PostScript"
-    },
-    {
-      "count": 4,
-      "language": "Crystal"
-    },
-    {
-      "count": 4,
-      "language": "AutoIt"
+      "language": "Eagle"
     },
     {
       "count": 4,
@@ -267,7 +255,11 @@
     },
     {
       "count": 4,
-      "language": "Elm"
+      "language": "Crystal"
+    },
+    {
+      "count": 4,
+      "language": "GLSL"
     },
     {
       "count": 4,
@@ -275,7 +267,19 @@
     },
     {
       "count": 4,
-      "language": "Eagle"
+      "language": "PostScript"
+    },
+    {
+      "count": 4,
+      "language": "Elm"
+    },
+    {
+      "count": 4,
+      "language": "AutoIt"
+    },
+    {
+      "count": 3,
+      "language": "SourcePawn"
     },
     {
       "count": 3,
@@ -283,11 +287,7 @@
     },
     {
       "count": 3,
-      "language": "PLpgSQL"
-    },
-    {
-      "count": 3,
-      "language": "Apex"
+      "language": "Nimrod"
     },
     {
       "count": 3,
@@ -295,23 +295,15 @@
     },
     {
       "count": 3,
+      "language": "Apex"
+    },
+    {
+      "count": 3,
       "language": "BitBake"
     },
     {
       "count": 3,
-      "language": "Nimrod"
-    },
-    {
-      "count": 3,
-      "language": "Perl6"
-    },
-    {
-      "count": 3,
       "language": "Logos"
-    },
-    {
-      "count": 3,
-      "language": "SourcePawn"
     },
     {
       "count": 3,
@@ -322,36 +314,12 @@
       "language": "F#"
     },
     {
-      "count": 2,
-      "language": "Bluespec"
+      "count": 3,
+      "language": "Perl6"
     },
     {
-      "count": 2,
-      "language": "Mathematica"
-    },
-    {
-      "count": 2,
-      "language": "Chapel"
-    },
-    {
-      "count": 2,
-      "language": "Cuda"
-    },
-    {
-      "count": 2,
-      "language": "Kotlin"
-    },
-    {
-      "count": 2,
-      "language": "Parrot"
-    },
-    {
-      "count": 2,
-      "language": "Verilog"
-    },
-    {
-      "count": 2,
-      "language": "SAS"
+      "count": 3,
+      "language": "PLpgSQL"
     },
     {
       "count": 2,
@@ -363,7 +331,19 @@
     },
     {
       "count": 2,
-      "language": "Processing"
+      "language": "Verilog"
+    },
+    {
+      "count": 2,
+      "language": "Web Ontology Language"
+    },
+    {
+      "count": 2,
+      "language": "Chapel"
+    },
+    {
+      "count": 2,
+      "language": "Parrot"
     },
     {
       "count": 2,
@@ -371,15 +351,39 @@
     },
     {
       "count": 2,
+      "language": "Cuda"
+    },
+    {
+      "count": 2,
+      "language": "Processing"
+    },
+    {
+      "count": 2,
+      "language": "Kotlin"
+    },
+    {
+      "count": 2,
+      "language": "Mathematica"
+    },
+    {
+      "count": 2,
       "language": "PAWN"
     },
     {
       "count": 2,
-      "language": "Web Ontology Language"
+      "language": "Bluespec"
+    },
+    {
+      "count": 2,
+      "language": "SAS"
     },
     {
       "count": 1,
-      "language": "Groff"
+      "language": "ColdFusion"
+    },
+    {
+      "count": 1,
+      "language": "Visual Basic"
     },
     {
       "count": 1,
@@ -387,11 +391,11 @@
     },
     {
       "count": 1,
-      "language": "XQuery"
+      "language": "Cucumber"
     },
     {
       "count": 1,
-      "language": "NetLogo"
+      "language": "AGS Script"
     },
     {
       "count": 1,
@@ -403,19 +407,15 @@
     },
     {
       "count": 1,
-      "language": "AGS Script"
+      "language": "NetLogo"
     },
     {
       "count": 1,
-      "language": "Visual Basic"
+      "language": "XQuery"
     },
     {
       "count": 1,
-      "language": "ColdFusion"
-    },
-    {
-      "count": 1,
-      "language": "Cucumber"
+      "language": "Groff"
     }
   ]
 }
