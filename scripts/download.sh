@@ -11,5 +11,5 @@ for hour in {0..23}; do
   [ -f "$FILE" ] && continue
   
   TEMP=$(mktemp)
-  curl -s -o "$TEMP" "https://data.gharchive.org/$DATE-$hour.json.gz" && mv "$TEMP" "$FILE"
+  curl -# -o "$TEMP" "https://data.gharchive.org/$DATE-$hour.json.gz" && mv "$TEMP" "$FILE"
 done
