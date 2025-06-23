@@ -4,10 +4,8 @@
 
 DATE=$(printf "%04d-%02d-%02d" $1 $2 $3)
 DIR="data/$DATE"
-[ ! -d "$DIR" ] && echo "No data found. Run download.sh first." && exit 1
+[ ! -d "$DIR" ] && echo "No data found. Run download.sh first." && exit 2
 
 mkdir -p output
 cargo build --release
-./target/release/ghlang "$DIR" > "output/analysis_$DATE.json"
-
-echo "✓ Analysis complete: output/analysis_$DATE.json" 
+./target/release/ghlang "$DIR" >"output/$DATE.json"
