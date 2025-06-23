@@ -3,13 +3,14 @@
 [ $# -ne 2 ] && echo "Usage: $0 year month" && exit 1
 
 for day in $(seq 1 31); do
-  date_str="$1-$2-$day"
+  DATE=$(printf "%04d-%02d-%02d" "$1" "$2" "$day")
 
-  if ! date -d "$date_str" &>/dev/null; then
+  if ! date -d "$DATE" &>/dev/null; then
     continue
   fi
 
-  echo "Processing $date_str..."
-  ./scripts/download.sh "$1" "$2" "$day"
-  ./scripts/analyze.sh "$1" "$2" "$day"
+  echo "Processing $DATE..."
+  ./scripts/download.sh "$DATE"
+  ./scripts/analyze.sh "$DATE"
+  rm -rf "data/$DATE"
 done
