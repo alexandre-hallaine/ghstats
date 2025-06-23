@@ -6,5 +6,5 @@ DIR="data/$1"
 [ ! -d "$DIR" ] && echo "No data found. Run download.sh first." && exit 2
 
 mkdir -p output
-cargo build --release
+cargo build --release &>/dev/null
 ./target/release/ghlang "$DIR" >"output/$1.json"
