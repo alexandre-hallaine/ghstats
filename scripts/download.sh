@@ -14,7 +14,7 @@ done
 
 [ ${#args[@]} -gt 0 ] && curl --parallel \
   --fail \
-  --retry 9999 \
+  --retry 99 \
   --retry-delay 5 \
   --connect-timeout 10 \
   --speed-limit 1024 \
