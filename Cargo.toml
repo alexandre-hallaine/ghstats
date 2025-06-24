@@ -3,11 +3,11 @@ name = "ghstats"
 version = "0.1.0"
 edition = "2021"
 authors = ["Alexandre Hallaine <alexandre@hallaine.com>"]
-description = "Analyze GitHub language trends from GitHub Archive data"
+description = "Generate comprehensive statistics from GitHub Archive data"
 license = "MIT"
 repository = "https://github.com/alexandre-hallaine/ghstats"
-keywords = ["github", "archive", "language", "trends", "analysis"]
-categories = ["command-line-utilities", "data-processing"]
+keywords = ["github", "archive", "statistics", "analytics", "data-processing", "github-archive"]
+categories = ["command-line-utilities", "data-processing", "development-tools"]
 
 [dependencies]
 flate2 = "1.0"
