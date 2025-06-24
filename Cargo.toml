@@ -1,11 +1,11 @@
 [package]
-name = "ghlang"
+name = "ghstats"
 version = "0.1.0"
 edition = "2021"
 authors = ["Alexandre Hallaine <alexandre@hallaine.com>"]
 description = "Analyze GitHub language trends from GitHub Archive data"
 license = "MIT"
-repository = "https://github.com/alexandre-hallaine/ghlang"
+repository = "https://github.com/alexandre-hallaine/ghstats"
 keywords = ["github", "archive", "language", "trends", "analysis"]
 categories = ["command-line-utilities", "data-processing"]
 

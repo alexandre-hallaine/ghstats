@@ -7,4 +7,4 @@ DIR="data/$1"
 
 mkdir -p output
 cargo build --release --quiet
-./target/release/ghlang "$DIR" >"output/$1.json"
+./target/release/ghstats "$DIR" >"output/$1.json"

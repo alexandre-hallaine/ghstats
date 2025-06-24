@@ -1,4 +1,4 @@
-# GHLang
+# GHStats
 
 Analyze GitHub language trends from GitHub Archive data.
 
