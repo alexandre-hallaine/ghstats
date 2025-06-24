@@ -1,0 +1,837 @@
+{
+  "files_processed": 24,
+  "languages": [
+    {
+      "count": 58721,
+      "language": "JavaScript"
+    },
+    {
+      "count": 24982,
+      "language": "TypeScript"
+    },
+    {
+      "count": 18449,
+      "language": "Python"
+    },
+    {
+      "count": 13360,
+      "language": "Java"
+    },
+    {
+      "count": 12158,
+      "language": "HTML"
+    },
+    {
+      "count": 8829,
+      "language": "Ruby"
+    },
+    {
+      "count": 8140,
+      "language": "Go"
+    },
+    {
+      "count": 7493,
+      "language": "C++"
+    },
+    {
+      "count": 7086,
+      "language": "PHP"
+    },
+    {
+      "count": 5728,
+      "language": "C#"
+    },
+    {
+      "count": 5505,
+      "language": "CSS"
+    },
+    {
+      "count": 4262,
+      "language": "Shell"
+    },
+    {
+      "count": 3696,
+      "language": "C"
+    },
+    {
+      "count": 3676,
+      "language": "Vue"
+    },
+    {
+      "count": 2240,
+      "language": "Rust"
+    },
+    {
+      "count": 1848,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "count": 1617,
+      "language": "Kotlin"
+    },
+    {
+      "count": 1182,
+      "language": "Scala"
+    },
+    {
+      "count": 1110,
+      "language": "Swift"
+    },
+    {
+      "count": 876,
+      "language": "PowerShell"
+    },
+    {
+      "count": 856,
+      "language": "Dart"
+    },
+    {
+      "count": 698,
+      "language": "DM"
+    },
+    {
+      "count": 650,
+      "language": "Makefile"
+    },
+    {
+      "count": 640,
+      "language": "Julia"
+    },
+    {
+      "count": 634,
+      "language": "Elixir"
+    },
+    {
+      "count": 624,
+      "language": "R"
+    },
+    {
+      "count": 560,
+      "language": "HCL"
+    },
+    {
+      "count": 503,
+      "language": "Dockerfile"
+    },
+    {
+      "count": 467,
+      "language": "Lua"
+    },
+    {
+      "count": 449,
+      "language": "Nix"
+    },
+    {
+      "count": 379,
+      "language": "Objective-C"
+    },
+    {
+      "count": 344,
+      "language": "TSQL"
+    },
+    {
+      "count": 341,
+      "language": "Groovy"
+    },
+    {
+      "count": 293,
+      "language": "Haskell"
+    },
+    {
+      "count": 272,
+      "language": "Perl"
+    },
+    {
+      "count": 228,
+      "language": "TeX"
+    },
+    {
+      "count": 187,
+      "language": "CoffeeScript"
+    },
+    {
+      "count": 187,
+      "language": "Smarty"
+    },
+    {
+      "count": 186,
+      "language": "OCaml"
+    },
+    {
+      "count": 177,
+      "language": "Vim script"
+    },
+    {
+      "count": 171,
+      "language": "CMake"
+    },
+    {
+      "count": 167,
+      "language": "Starlark"
+    },
+    {
+      "count": 159,
+      "language": "Clojure"
+    },
+    {
+      "count": 136,
+      "language": "F#"
+    },
+    {
+      "count": 129,
+      "language": "Assembly"
+    },
+    {
+      "count": 110,
+      "language": "GDScript"
+    },
+    {
+      "count": 105,
+      "language": "Fortran"
+    },
+    {
+      "count": 99,
+      "language": "Emacs Lisp"
+    },
+    {
+      "count": 98,
+      "language": "Batchfile"
+    },
+    {
+      "count": 95,
+      "language": "Elm"
+    },
+    {
+      "count": 84,
+      "language": "Erlang"
+    },
+    {
+      "count": 83,
+      "language": "XSLT"
+    },
+    {
+      "count": 76,
+      "language": "MATLAB"
+    },
+    {
+      "count": 74,
+      "language": "Tcl"
+    },
+    {
+      "count": 68,
+      "language": "SystemVerilog"
+    },
+    {
+      "count": 66,
+      "language": "Pascal"
+    },
+    {
+      "count": 66,
+      "language": "PLpgSQL"
+    },
+    {
+      "count": 64,
+      "language": "Gherkin"
+    },
+    {
+      "count": 64,
+      "language": "ShaderLab"
+    },
+    {
+      "count": 61,
+      "language": "Roff"
+    },
+    {
+      "count": 53,
+      "language": "Reason"
+    },
+    {
+      "count": 47,
+      "language": "Apex"
+    },
+    {
+      "count": 46,
+      "language": "Nim"
+    },
+    {
+      "count": 46,
+      "language": "Nextflow"
+    },
+    {
+      "count": 45,
+      "language": "Jsonnet"
+    },
+    {
+      "count": 43,
+      "language": "Rich Text Format"
+    },
+    {
+      "count": 43,
+      "language": "Crystal"
+    },
+    {
+      "count": 42,
+      "language": "D"
+    },
+    {
+      "count": 40,
+      "language": "Hack"
+    },
+    {
+      "count": 40,
+      "language": "Mathematica"
+    },
+    {
+      "count": 38,
+      "language": "Puppet"
+    },
+    {
+      "count": 37,
+      "language": "QML"
+    },
+    {
+      "count": 36,
+      "language": "SQF"
+    },
+    {
+      "count": 35,
+      "language": "Smalltalk"
+    },
+    {
+      "count": 35,
+      "language": "PLSQL"
+    },
+    {
+      "count": 34,
+      "language": "VBA"
+    },
+    {
+      "count": 32,
+      "language": "CodeQL"
+    },
+    {
+      "count": 31,
+      "language": "Cuda"
+    },
+    {
+      "count": 29,
+      "language": "Objective-C++"
+    },
+    {
+      "count": 26,
+      "language": "Coq"
+    },
+    {
+      "count": 26,
+      "language": "BitBake"
+    },
+    {
+      "count": 25,
+      "language": "Vala"
+    },
+    {
+      "count": 25,
+      "language": "Verilog"
+    },
+    {
+      "count": 23,
+      "language": "V"
+    },
+    {
+      "count": 22,
+      "language": "Solidity"
+    },
+    {
+      "count": 22,
+      "language": "VHDL"
+    },
+    {
+      "count": 22,
+      "language": "AGS Script"
+    },
+    {
+      "count": 20,
+      "language": "Haxe"
+    },
+    {
+      "count": 20,
+      "language": "GLSL"
+    },
+    {
+      "count": 19,
+      "language": "Liquid"
+    },
+    {
+      "count": 18,
+      "language": "WebAssembly"
+    },
+    {
+      "count": 17,
+      "language": "Common Lisp"
+    },
+    {
+      "count": 17,
+      "language": "Raku"
+    },
+    {
+      "count": 17,
+      "language": "PureScript"
+    },
+    {
+      "count": 17,
+      "language": "Zig"
+    },
+    {
+      "count": 16,
+      "language": "Lean"
+    },
+    {
+      "count": 16,
+      "language": "RobotFramework"
+    },
+    {
+      "count": 16,
+      "language": "SourcePawn"
+    },
+    {
+      "count": 16,
+      "language": "LookML"
+    },
+    {
+      "count": 15,
+      "language": "AMPL"
+    },
+    {
+      "count": 14,
+      "language": "1C Enterprise"
+    },
+    {
+      "count": 13,
+      "language": "XQuery"
+    },
+    {
+      "count": 13,
+      "language": "wdl"
+    },
+    {
+      "count": 13,
+      "language": "SaltStack"
+    },
+    {
+      "count": 12,
+      "language": "SWIG"
+    },
+    {
+      "count": 12,
+      "language": "PostScript"
+    },
+    {
+      "count": 11,
+      "language": "Visual Basic .NET"
+    },
+    {
+      "count": 11,
+      "language": "OpenSCAD"
+    },
+    {
+      "count": 11,
+      "language": "SQLPL"
+    },
+    {
+      "count": 10,
+      "language": "Common Workflow Language"
+    },
+    {
+      "count": 10,
+      "language": "Racket"
+    },
+    {
+      "count": 10,
+      "language": "PureBasic"
+    },
+    {
+      "count": 9,
+      "language": "Stata"
+    },
+    {
+      "count": 9,
+      "language": "Ren'Py"
+    },
+    {
+      "count": 9,
+      "language": "Processing"
+    },
+    {
+      "count": 9,
+      "language": "ASP"
+    },
+    {
+      "count": 9,
+      "language": "SMT"
+    },
+    {
+      "count": 8,
+      "language": "COBOL"
+    },
+    {
+      "count": 8,
+      "language": "ZenScript"
+    },
+    {
+      "count": 8,
+      "language": "G-code"
+    },
+    {
+      "count": 8,
+      "language": "M4"
+    },
+    {
+      "count": 8,
+      "language": "DIGITAL Command Language"
+    },
+    {
+      "count": 7,
+      "language": "Forth"
+    },
+    {
+      "count": 7,
+      "language": "Scheme"
+    },
+    {
+      "count": 7,
+      "language": "Smali"
+    },
+    {
+      "count": 7,
+      "language": "Standard ML"
+    },
+    {
+      "count": 7,
+      "language": "Xtend"
+    },
+    {
+      "count": 7,
+      "language": "ColdFusion"
+    },
+    {
+      "count": 7,
+      "language": "Ada"
+    },
+    {
+      "count": 6,
+      "language": "Gnuplot"
+    },
+    {
+      "count": 6,
+      "language": "Markdown"
+    },
+    {
+      "count": 6,
+      "language": "Mercury"
+    },
+    {
+      "count": 6,
+      "language": "Lasso"
+    },
+    {
+      "count": 6,
+      "language": "Prolog"
+    },
+    {
+      "count": 6,
+      "language": "Modelica"
+    },
+    {
+      "count": 6,
+      "language": "GAML"
+    },
+    {
+      "count": 6,
+      "language": "ABAP"
+    },
+    {
+      "count": 5,
+      "language": "FreeMarker"
+    },
+    {
+      "count": 5,
+      "language": "NSIS"
+    },
+    {
+      "count": 5,
+      "language": "GAP"
+    },
+    {
+      "count": 5,
+      "language": "LabVIEW"
+    },
+    {
+      "count": 5,
+      "language": "CartoCSS"
+    },
+    {
+      "count": 5,
+      "language": "AutoHotkey"
+    },
+    {
+      "count": 5,
+      "language": "JSON"
+    },
+    {
+      "count": 4,
+      "language": "Rebol"
+    },
+    {
+      "count": 4,
+      "language": "NASL"
+    },
+    {
+      "count": 4,
+      "language": "Mako"
+    },
+    {
+      "count": 4,
+      "language": "SuperCollider"
+    },
+    {
+      "count": 4,
+      "language": "Text"
+    },
+    {
+      "count": 4,
+      "language": "ActionScript"
+    },
+    {
+      "count": 4,
+      "language": "Dhall"
+    },
+    {
+      "count": 4,
+      "language": "Scilab"
+    },
+    {
+      "count": 4,
+      "language": "Bluespec"
+    },
+    {
+      "count": 4,
+      "language": "LLVM"
+    },
+    {
+      "count": 4,
+      "language": "ANTLR"
+    },
+    {
+      "count": 4,
+      "language": "LilyPond"
+    },
+    {
+      "count": 4,
+      "language": "LiveScript"
+    },
+    {
+      "count": 4,
+      "language": "ApacheConf"
+    },
+    {
+      "count": 3,
+      "language": "Yacc"
+    },
+    {
+      "count": 3,
+      "language": "Turtle"
+    },
+    {
+      "count": 3,
+      "language": "mIRC Script"
+    },
+    {
+      "count": 3,
+      "language": "UnrealScript"
+    },
+    {
+      "count": 3,
+      "language": "xBase"
+    },
+    {
+      "count": 3,
+      "language": "Chapel"
+    },
+    {
+      "count": 3,
+      "language": "VimL"
+    },
+    {
+      "count": 3,
+      "language": "RAML"
+    },
+    {
+      "count": 2,
+      "language": "REALbasic"
+    },
+    {
+      "count": 2,
+      "language": "Inform 7"
+    },
+    {
+      "count": 2,
+      "language": "Hy"
+    },
+    {
+      "count": 2,
+      "language": "mcfunction"
+    },
+    {
+      "count": 2,
+      "language": "QMake"
+    },
+    {
+      "count": 2,
+      "language": "Ragel"
+    },
+    {
+      "count": 2,
+      "language": "Open Policy Agent"
+    },
+    {
+      "count": 2,
+      "language": "Cirru"
+    },
+    {
+      "count": 2,
+      "language": "Bro"
+    },
+    {
+      "count": 2,
+      "language": "VCL"
+    },
+    {
+      "count": 2,
+      "language": "Brainfuck"
+    },
+    {
+      "count": 2,
+      "language": "Meson"
+    },
+    {
+      "count": 2,
+      "language": "F*"
+    },
+    {
+      "count": 2,
+      "language": "Stan"
+    },
+    {
+      "count": 2,
+      "language": "ObjectScript"
+    },
+    {
+      "count": 2,
+      "language": "Rascal"
+    },
+    {
+      "count": 2,
+      "language": "SRecode Template"
+    },
+    {
+      "count": 2,
+      "language": "Faust"
+    },
+    {
+      "count": 2,
+      "language": "Game Maker Language"
+    },
+    {
+      "count": 2,
+      "language": "NewLisp"
+    },
+    {
+      "count": 2,
+      "language": "DataWeave"
+    },
+    {
+      "count": 2,
+      "language": "Agda"
+    },
+    {
+      "count": 2,
+      "language": "YARA"
+    },
+    {
+      "count": 2,
+      "language": "MoonScript"
+    },
+    {
+      "count": 2,
+      "language": "q"
+    },
+    {
+      "count": 2,
+      "language": "Vim Snippet"
+    },
+    {
+      "count": 1,
+      "language": "Isabelle"
+    },
+    {
+      "count": 1,
+      "language": "Propeller Spin"
+    },
+    {
+      "count": 1,
+      "language": "Pony"
+    },
+    {
+      "count": 1,
+      "language": "VBScript"
+    },
+    {
+      "count": 1,
+      "language": "EmberScript"
+    },
+    {
+      "count": 1,
+      "language": "Protocol Buffer"
+    },
+    {
+      "count": 1,
+      "language": "SAS"
+    },
+    {
+      "count": 1,
+      "language": "Brightscript"
+    },
+    {
+      "count": 1,
+      "language": "Pawn"
+    },
+    {
+      "count": 1,
+      "language": "Squirrel"
+    },
+    {
+      "count": 1,
+      "language": "API Blueprint"
+    },
+    {
+      "count": 1,
+      "language": "XML"
+    },
+    {
+      "count": 1,
+      "language": "HyPhy"
+    },
+    {
+      "count": 1,
+      "language": "Arduino"
+    },
+    {
+      "count": 1,
+      "language": "OpenEdge ABL"
+    },
+    {
+      "count": 1,
+      "language": "Thrift"
+    }
+  ]
+}
