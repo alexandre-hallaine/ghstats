@@ -10,6 +10,10 @@ pub struct GithubEvent {
     #[serde(rename = "type")]
     pub event_type: String,
     pub payload: Value,
+    pub actor: Value,
+    pub repo: Value,
+    pub org: Option<Value>,
+    pub created_at: Option<String>,
 }
 
 pub fn load_from_dir(dir: &str) -> Result<Vec<GithubEvent>, Box<dyn std::error::Error>> {

@@ -3,10 +3,12 @@ name = "ghstats"
 version = "0.1.0"
 edition = "2021"
 authors = ["Alexandre Hallaine <alexandre@hallaine.com>"]
-description = "Generate comprehensive statistics from GitHub Archive data"
+description = "Minimalist analytics for GitHub Archive data. Fast, parallel, and written in Rust."
 license = "MIT"
 repository = "https://github.com/alexandre-hallaine/ghstats"
-keywords = ["github", "archive", "statistics", "analytics", "data-processing", "github-archive"]
+homepage = "https://github.com/alexandre-hallaine/ghstats"
+documentation = "https://github.com/alexandre-hallaine/ghstats#readme"
+keywords = ["github", "archive", "statistics", "analytics", "data-processing"]
 categories = ["command-line-utilities", "data-processing", "development-tools"]
 
 [dependencies]
@@ -14,6 +16,7 @@ flate2 = "1.0"
 rayon = "1.8"
 serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0"
+chrono = "0.4"
 
 [profile.release]
 opt-level = 3
