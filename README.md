@@ -9,9 +9,6 @@ Stats from GitHub Archive data.
 ## Statistics Collected
 - **Event Types**: Count of each GitHub event type
 - **Languages**: Programming languages in pull requests
-- **Top Repositories**: Most active repositories (top 100)
-- **Top Actors**: Most active users (top 100)
-- **Top Organizations**: Most active organizations (top 100)
 - **Hourly Activity**: Event counts by hour (0-23)
 
 ## Quick Start
@@ -27,11 +24,8 @@ Stats from GitHub Archive data.
 ## Output Example
 ```json
 {
-  "event_types": [ {"event_type": "PushEvent", "count": 456789} ],
-  "languages": [ {"language": "JavaScript", "count": 1234} ],
-  "top_repositories": [ {"repository": "owner/repo1", "count": 1234} ],
-  "top_actors": [ {"actor": "username1", "count": 567} ],
-  "top_organizations": [ {"organization": "orgname", "count": 321} ],
-  "hourly_activity": [ {"hour": 0, "count": 12345} ]
+  "events": { "ForkEvent": 7144, "PushEvent": 119242 },
+  "hours": { "0": 7702, "1": 7427 },
+  "languages": { "C": 365, "Rust": 129 }
 }
 ```

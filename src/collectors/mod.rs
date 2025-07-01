@@ -1,7 +1,10 @@
-mod amount;
+mod event;
+mod hour;
+mod language;
 
-pub use amount::AmountCollector;
-
+use crate::collectors::event::EventCollector;
+use crate::collectors::hour::HourCollector;
+use crate::collectors::language::LanguageCollector;
 use crate::loader::GithubEvent;
 use serde_json::{Map, Value};
 use std::collections::HashMap;
@@ -61,7 +64,12 @@ impl Collectors {
 impl Default for Collectors {
     fn default() -> Self {
         let mut manager = Self::new();
-        manager.add(String::from("amount"), Box::new(AmountCollector::new()));
+        manager.add(String::from("events"), Box::new(EventCollector::new()));
+        manager.add(String::from("hours"), Box::new(HourCollector::new()));
+        manager.add(
+            String::from("languages"),
+            Box::new(LanguageCollector::new()),
+        );
         manager
     }
 }
