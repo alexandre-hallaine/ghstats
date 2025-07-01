@@ -2,11 +2,12 @@
 
 [ $# -ne 1 ] && echo "Usage: $0 date" && exit 1
 
-TMP=$(mktemp -d)
+mkdir -p data
+
+TMP=$(mktemp -d ./data/tmp.XXXXXX)
 DIR="data/$1"
 ARGS=()
 
-mkdir -p data
 [ -d "$DIR" ] && exit 0
 
 for hour in {0..23}; do
