@@ -7,9 +7,10 @@ for day in $(seq 1 31); do
   ! date -d "$DATE" &>/dev/null && continue
 
   echo "[$DATE] Downloading..."
-  ./scripts/download.sh "$DATE"
+  ./scripts/download.sh "$DATE" >/dev/null 2>&1
 
   echo "[$DATE] Analyzing..."
-  ./scripts/analyze.sh "$DATE"
+  ./scripts/analyze.sh "$DATE" >/dev/null 2>&1
+
   rm -rf "data/$DATE"
 done

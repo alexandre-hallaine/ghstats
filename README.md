@@ -1,11 +1,10 @@
 # GHStats
 
-Minimalist analytics for GitHub Archive data.
+Stats from GitHub Archive data.
 
 ## Features
-- Fast, parallel processing of GitHub Archive event data
-- Output: JSON statistics per day
-- Written in Rust for performance
+- Parallel processing
+- JSON statistics
 
 ## Statistics Collected
 - **Event Types**: Count of each GitHub event type
@@ -36,10 +35,3 @@ Minimalist analytics for GitHub Archive data.
   "hourly_activity": [ {"hour": 0, "count": 12345} ]
 }
 ```
-
-## Requirements
-- Rust
-- curl
-
-## Data Source
-[GitHub Archive](https://www.gharchive.org/)
