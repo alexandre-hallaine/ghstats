@@ -1,12 +1,14 @@
-mod loaders;
-mod collectors;
+mod loader;
 
-use loaders::load_from_dir;
-use collectors::Collectors;
+use std::env;
+use std::path::Path;
+use crate::loader::Loader;
 
 fn main() {
-    let dir = std::env::args().nth(1).expect("Usage: <dir>");
-    let events = load_from_dir(&dir).expect("Failed to load events");
-    let output = Collectors::default().collect_all(&events);
-    println!("{}", serde_json::to_string_pretty(&output).unwrap());
+    let folder = env::args().nth(1).expect("Missing folder path");
+
+    let mut loader = Loader::new(Path::new(&folder));
+    loader.process(|event| {
+        println!("{:?}", event);
+    });
 }
