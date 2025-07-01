@@ -1,11 +1,11 @@
+use serde::Deserialize;
+use serde_json::Value;
 use std::fs;
 use std::fs::File;
 use std::io::{BufRead, BufReader};
 use std::path::Path;
-use serde::Deserialize;
-use serde_json::Value;
 
-#[derive(Deserialize, Debug)]
+#[derive(Deserialize)]
 pub struct GithubEvent {
     #[serde(rename = "type")]
     pub event_type: String,
@@ -35,11 +35,13 @@ impl Loader {
     }
 
     pub fn process<F>(&mut self, f: F)
-        where F: Fn(GithubEvent),
+    where
+        F: Fn(GithubEvent),
     {
         for reader in &mut self.readers {
             for line in reader.lines() {
-                let event = serde_json::from_str::<GithubEvent>(&line.unwrap()).expect("Cannot parse GithubEvent");
+                let event = serde_json::from_str::<GithubEvent>(&line.unwrap())
+                    .expect("Cannot parse GithubEvent");
                 f(event);
             }
         }
