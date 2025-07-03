@@ -3,27 +3,30 @@
 Stats from GitHub Archive data.
 
 ## Features
+
 - Parallel processing
 - JSON statistics
 
 ## Statistics Collected
+
 - **Event Types**: Count of each GitHub event type
 - **Languages**: Programming languages in pull requests
 - **Hourly Activity**: Event counts by hour (0-23)
 
 ## Quick Start
+
 ```sh
-# Process a specific day
-./scripts/process.sh 2025 1 1
+# Process a full year, month, or day:
+./scripts/process.sh 2025        # Year
+./scripts/process.sh 2025 1      # Month
+./scripts/process.sh 2025 1 1    # Day
 
-# Or process a full month (e.g., January 2025)
-./scripts/process.sh 2025 1
-
-# Or process a full year (e.g., January 2025 - December 2025)
-./scripts/process.sh 2025
+# Or run specific gharchives dates directly:
+parallel --eta ./scripts/core.sh ::: 2025-01-01 2025-02-15 2025-03-10 2025-04-25
 ```
 
 ## Output Example
+
 ```json
 {
   "events": { "ForkEvent": 7144, "PushEvent": 119242 },
