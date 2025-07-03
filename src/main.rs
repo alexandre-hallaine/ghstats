@@ -3,6 +3,7 @@ mod loader;
 
 use crate::collectors::Collectors;
 use crate::loader::Loader;
+use serde_json::Value;
 use std::env;
 use std::path::Path;
 
@@ -17,5 +18,7 @@ fn main() {
         collectors.collect(event);
     });
 
-    println!("{}", collectors.output());
+    let mut output = collectors.output();
+    output.insert(String::from("file_count"), Value::from(loader.amount()));
+    println!("{}", Value::from(output));
 }

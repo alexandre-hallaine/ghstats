@@ -47,7 +47,7 @@ impl Collectors {
         }
     }
 
-    pub fn output(self) -> Value {
+    pub fn output(self) -> Map<String, Value> {
         let mut map = Map::new();
 
         for (name, (tx, handle)) in self.collectors {
@@ -57,7 +57,7 @@ impl Collectors {
             map.insert(name, output);
         }
 
-        Value::Object(map)
+        map
     }
 }
 

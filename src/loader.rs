@@ -10,9 +10,9 @@ pub struct GithubEvent {
     #[serde(rename = "type")]
     pub event_type: String,
     pub created_at: Option<String>,
-    pub actor: Value,
-    pub repo: Value,
-    pub org: Option<Value>,
+    // pub actor: Value,
+    // pub repo: Value,
+    // pub org: Option<Value>,
     pub payload: Value,
 }
 
@@ -45,5 +45,9 @@ impl Loader {
                 f(event);
             }
         }
+    }
+
+    pub fn amount(&self) -> usize {
+        self.readers.len()
     }
 }
