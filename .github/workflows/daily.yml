@@ -2,7 +2,7 @@ name: Daily Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "30 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -18,17 +18,15 @@ jobs:
           fetch-depth: 0
 
       - name: Store date
-        run: echo "DATE=$(date -u -d '2 days ago' +'%Y-%m-%d')" >> $GITHUB_ENV
+        run: echo "DATE=$(date -u -d 'yesterday' +'%Y-%m-%d')" >> $GITHUB_ENV
 
-      - name: Download
-        run: ./scripts/download.sh $DATE
-      - name: Analyze
-        run: ./scripts/analyze.sh $DATE
+      - name: Process
+        run: ./scripts/core.sh $DATE
 
-      - name: Commit and push output
+      - name: Commit and push stats
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add output
+          git add stats
           git commit -m "chore(daily): stats for $DATE"
           git push
