@@ -8,8 +8,8 @@ cd temp_$1
 
 for h in {0..23}; do
   curl -sO https://data.gharchive.org/$1-$h.json.gz
-  gunzip $1-$h.json.gz
+  gunzip $1-$h.json.gz || rm $1-$h.json.gz
 done
 
-cargo run -r -- . > ../stats/$1.json
+cargo run -r -- . >../stats/$1.json
 cd .. && rm -rf temp_$1
