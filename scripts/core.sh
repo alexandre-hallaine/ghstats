@@ -6,10 +6,8 @@
 mkdir -p stats temp_$1
 cd temp_$1
 
-for h in {0..23}; do
-  curl -sO https://data.gharchive.org/$1-$h.json.gz
-  gunzip $1-$h.json.gz || rm $1-$h.json.gz
-done
+curl --parallel --fail $(printf -- "-O https://data.gharchive.org/$1-%d.json.gz " {0..23})
+parallel -j2 'gunzip {} || rm {}' ::: *
 
 cargo run -r -- . >../stats/$1.json
 cd .. && rm -rf temp_$1
