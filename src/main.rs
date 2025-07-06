@@ -19,6 +19,6 @@ fn main() {
     });
 
     let mut output = collectors.output();
-    output.insert(String::from("file_count"), Value::from(loader.amount()));
+    output.insert(String::from("file_count"), Value::from(loader.file_count()));
     println!("{}", Value::from(output));
 }
