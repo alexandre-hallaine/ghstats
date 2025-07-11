@@ -1,36 +1,35 @@
-# GHStats
+# ghstats
 
-Stats from GitHub Archive data.
+CLI Rust pour générer des statistiques journalières à partir des événements GitHub publics fournis par [gharchive.org](https://www.gharchive.org).
 
-## Features
+## 🔧 Fonctionnement
 
-- Parallel processing
-- JSON statistics
+Le programme télécharge, décompresse et analyse les fichiers `.json.gz` d’un jour donné (1 par heure, 24 total), entièrement en streaming. Il passe chaque événement à un ou plusieurs "collectors" qui extraient des statistiques spécifiques.
 
-## Statistics Collected
+La sortie est un **fichier JSON unique imprimé sur stdout**.
 
-- **Event Types**: Count of each GitHub event type
-- **Languages**: Programming languages in pull requests
-- **Hourly Activity**: Event counts by hour (0-23)
+## 📦 Exemple d'utilisation
 
-## Quick Start
+```bash
+# Générer les stats du 1er juillet 2025
+ghstats 2025-07-01 > stats-2025-07-01.json
 
-```sh
-# Process a full year, month, or day:
-./scripts/process.sh 2025        # Year
-./scripts/process.sh 2025 1      # Month
-./scripts/process.sh 2025 1 1    # Day
+# Générer un mois complet en parallèle
+seq -w 01 31 | parallel -j 4 "ghstats 2025-07-{} > stats/2025-07-{}.json"
+````
 
-# Or run specific gharchives dates directly:
-parallel --eta ./scripts/core.sh ::: 2025-01-01 2025-02-15 2025-03-10 2025-04-25
-```
+## 🎯 Principes
 
-## Output Example
+* Full streaming : HTTP → gzip → JSON → struct
+* Aucune écriture disque intermédiaire
+* Architecture modulaire via `Collector` trait
+* Mono-thread pour performance simple et fiable
+* Extensible par ajout de collectors spécialisés
 
-```json
-{
-  "events": { "ForkEvent": 7144, "PushEvent": 119242 },
-  "hours": { "0": 7702, "1": 7427 },
-  "languages": { "C": 365, "Rust": 129 }
-}
-```
+## 📤 Sortie
+
+Le programme écrit un JSON structuré unique sur `stdout`. Aucun log, métrique ou trace n’est imprimé.
+
+## 📄 Licence
+
+MIT
