@@ -6,7 +6,7 @@ use std::env;
 use std::io::BufReader;
 
 mod collector;
-use collector::{Collector, CountPushEvents};
+use collector::{Collector, MasterCollector};
 
 #[derive(Deserialize)]
 pub struct Event {
@@ -23,7 +23,7 @@ fn main() {
     let date = env::args().nth(1).expect("Usage: ghstats YYYY-MM-DD");
     let client = Client::builder().build().unwrap();
 
-    let mut collector = CountPushEvents::default();
+    let mut collector = MasterCollector::default();
 
     for hour in 0..24 {
         let url = format!("https://data.gharchive.org/{}-{}.json.gz", date, hour);
@@ -40,6 +40,6 @@ fn process(client: &Client, url: &str, collector: &mut dyn Collector) {
     let stream = Deserializer::from_reader(reader).into_iter::<Event>();
 
     for event in stream {
-        collector.collect(&event.unwrap());
+        collector.handle(&event.unwrap());
     }
 }
