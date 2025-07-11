@@ -1,6 +1,7 @@
 use crate::Event;
 use crate::collector::Collector;
 use crate::collector::leaf::CounterCollector;
+use crate::collector::transform::PerKeyCollector;
 use serde_json::{Map, Value};
 
 pub struct MasterCollector {
@@ -9,8 +10,17 @@ pub struct MasterCollector {
 
 impl Default for MasterCollector {
     fn default() -> Self {
+        let per_actor = PerKeyCollector::new(
+            |event: &Event| {
+                event.actor.get("login")
+                    .and_then(|v| v.as_str())
+                    .map(|s| s.to_string())
+            },
+            || Box::new(CounterCollector::default()),
+        );
+
         Self {
-            children: vec![Box::new(CounterCollector::default())],
+            children: vec![Box::new(per_actor)],
         }
     }
 }

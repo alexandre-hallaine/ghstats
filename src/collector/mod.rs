@@ -3,6 +3,7 @@ use serde_json::Value;
 
 mod leaf;
 mod master;
+mod transform;
 
 pub use master::MasterCollector;
 
